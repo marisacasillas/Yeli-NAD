@@ -15,8 +15,8 @@ form Equalize V interval durations
 	comment Directory of finished files
 	text end_directory /Users/mctice/Documents/Academic/Git-Projects/Yeli-NAD/stimuli/audio/02-homogenize/00-equalized_vowel_duration/
 	comment Equalize to these durations
-	positive c_duration 0.15
-	positive v_duration 0.3
+	positive c_duration 0.15 * 0.8
+	positive v_duration 0.3 * 0.8
 endform
 
 
