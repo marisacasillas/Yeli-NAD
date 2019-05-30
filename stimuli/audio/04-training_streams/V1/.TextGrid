@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 19.891 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "labels" 
+        xmin = 0 
+        xmax = 19.891 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1217916666666665 
+            text = "to_nu_ke" 
+        intervals [2]:
+            xmin = 1.1217916666666665 
+            xmax = 2.21 
+            text = "pae_nu_mi" 
+        intervals [3]:
+            xmin = 2.21 
+            xmax = 3.3480416666666666 
+            text = "yu_wae_nga" 
+        intervals [4]:
+            xmin = 3.3480416666666666 
+            xmax = 4.462 
+            text = "yu_le_nga" 
+        intervals [5]:
+            xmin = 4.462 
+            xmax = 5.608833333333333 
+            text = "yu_nu_nga" 
+        intervals [6]:
+            xmin = 5.608833333333333 
+            xmax = 6.697749999999999 
+            text = "to_le_ke" 
+        intervals [7]:
+            xmin = 6.697749999999999 
+            xmax = 7.777166666666666 
+            text = "pae_wae_mi" 
+        intervals [8]:
+            xmin = 7.777166666666666 
+            xmax = 8.890166666666666 
+            text = "to_wae_ke" 
+        intervals [9]:
+            xmin = 8.890166666666666 
+            xmax = 9.9455 
+            text = "pae_le_mi" 
+        intervals [10]:
+            xmin = 9.9455 
+            xmax = 11.059458333333332 
+            text = "yu_le_nga" 
+        intervals [11]:
+            xmin = 11.059458333333332 
+            xmax = 12.138874999999999 
+            text = "pae_wae_mi" 
+        intervals [12]:
+            xmin = 12.138874999999999 
+            xmax = 13.227083333333333 
+            text = "pae_nu_mi" 
+        intervals [13]:
+            xmin = 13.227083333333333 
+            xmax = 14.348875 
+            text = "to_nu_ke" 
+        intervals [14]:
+            xmin = 14.348875 
+            xmax = 15.404208333333333 
+            text = "pae_le_mi" 
+        intervals [15]:
+            xmin = 15.404208333333333 
+            xmax = 16.551041666666666 
+            text = "yu_nu_nga" 
+        intervals [16]:
+            xmin = 16.551041666666666 
+            xmax = 17.664041666666666 
+            text = "to_wae_ke" 
+        intervals [17]:
+            xmin = 17.664041666666666 
+            xmax = 18.802083333333332 
+            text = "yu_wae_nga" 
+        intervals [18]:
+            xmin = 18.802083333333332 
+            xmax = 19.891 
+            text = "to_le_ke" 

@@ -14,19 +14,19 @@
 # Set up the basic input/output info
 form Save intervals to small WAV sound files
 	comment How many tokens of each word should be included?
-	integer Number_of_each_token 1
+	integer Number_of_each_token 100
 	boolean Allow_adjacent_repetitions 0
 	integer Secs_fade_in_and_out 5
 	comment About the input files:
-	sentence Input_folder /Users/mctice/Documents/Academic/Git-Projects/Yeli-NAD/stimuli/audio/03-word_concatenations/00-hand_concatenated_words/
+	sentence Input_folder /Users/mctice/Documents/Academic/Git-Projects/Yeli-NAD/stimuli/audio/03-make_all_words/02-training_words_only/
+	sentence Version_folder V1/
 	comment About the output files:
-	sentence Output_folder ~/Documents/Academic/Git-Projects/Yeli-NAD/stimuli/audio/04-training_streams/
-	sentence Output_file_name concatenated
+	sentence Output_folder /Users/mctice/Documents/Academic/Git-Projects/Yeli-NAD/stimuli/audio/04-training_streams/
 endform
 
 
 # Make a list of all the sound files in a directory
-Create Strings as file list... wavlist 'input_folder$'*.wav
+Create Strings as file list... wavlist 'input_folder$''version_folder$'*.wav
 number_files = Get number of strings
 
 # Add the name of each file to the list the specified number of times
@@ -61,7 +61,7 @@ for ifile to number_files * number_of_each_token
 	select Strings random_strings
 	filename$ = Get string... ifile
 	# A sound file is opened from the listing:
-	Read from file... 'input_folder$''filename$'
+	Read from file... 'input_folder$''version_folder$''filename$'
 endfor
 
 # Concatenate the strings
@@ -79,9 +79,10 @@ Fade in... 0 0 secs_fade_in_and_out no
 Fade out... 0 3600 -secs_fade_in_and_out no
 
 # Save the concatenated sound file and textgrid
-Rename... 'output_file_name$'
-Write to WAV file... 'output_folder$''output_file_name$'.wav
+version$ = replace_regex$ (version_folder$, "/", "", 0)
+Rename... 'version$'
+Write to WAV file... 'output_folder$''version_folder$''version$'.wav
 select TextGrid chain
-Rename... 'output_file_name$'
-Save as text file... 'output_folder$''output_file_name$'.TextGrid
+Rename... 'version$'
+Save as text file... 'output_folder$''version_folder$''version$'.TextGrid
 

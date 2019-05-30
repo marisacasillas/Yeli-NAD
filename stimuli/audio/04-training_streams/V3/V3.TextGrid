@@ -1,0 +1,3614 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 994.7937499999999 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "labels" 
+        xmin = 0 
+        xmax = 994.7937499999999 
+        intervals: size = 900 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0810416666666667 
+            text = "mi_yu_ke" 
+        intervals [2]:
+            xmin = 1.0810416666666667 
+            xmax = 2.2072708333333333 
+            text = "nu_nga_da" 
+        intervals [3]:
+            xmin = 2.2072708333333333 
+            xmax = 3.2731666666666666 
+            text = "mi_pae_ke" 
+        intervals [4]:
+            xmin = 3.2731666666666666 
+            xmax = 4.381875 
+            text = "to_pae_wae" 
+        intervals [5]:
+            xmin = 4.381875 
+            xmax = 5.508854166666667 
+            text = "to_nga_wae" 
+        intervals [6]:
+            xmin = 5.508854166666667 
+            xmax = 6.593020833333333 
+            text = "mi_nga_ke" 
+        intervals [7]:
+            xmin = 6.593020833333333 
+            xmax = 7.716875 
+            text = "to_yu_wae" 
+        intervals [8]:
+            xmin = 7.716875 
+            xmax = 8.839979166666666 
+            text = "nu_yu_da" 
+        intervals [9]:
+            xmin = 8.839979166666666 
+            xmax = 9.947937499999998 
+            text = "nu_pae_da" 
+        intervals [10]:
+            xmin = 9.947937499999998 
+            xmax = 11.074166666666665 
+            text = "nu_nga_da" 
+        intervals [11]:
+            xmin = 11.074166666666665 
+            xmax = 12.19727083333333 
+            text = "nu_yu_da" 
+        intervals [12]:
+            xmin = 12.19727083333333 
+            xmax = 13.305229166666663 
+            text = "nu_pae_da" 
+        intervals [13]:
+            xmin = 13.305229166666663 
+            xmax = 14.386270833333331 
+            text = "mi_yu_ke" 
+        intervals [14]:
+            xmin = 14.386270833333331 
+            xmax = 15.513249999999998 
+            text = "to_nga_wae" 
+        intervals [15]:
+            xmin = 15.513249999999998 
+            xmax = 16.597416666666664 
+            text = "mi_nga_ke" 
+        intervals [16]:
+            xmin = 16.597416666666664 
+            xmax = 17.706124999999997 
+            text = "to_pae_wae" 
+        intervals [17]:
+            xmin = 17.706124999999997 
+            xmax = 18.829979166666664 
+            text = "to_yu_wae" 
+        intervals [18]:
+            xmin = 18.829979166666664 
+            xmax = 19.895874999999997 
+            text = "mi_pae_ke" 
+        intervals [19]:
+            xmin = 19.895874999999997 
+            xmax = 21.00383333333333 
+            text = "nu_pae_da" 
+        intervals [20]:
+            xmin = 21.00383333333333 
+            xmax = 22.06972916666666 
+            text = "mi_pae_ke" 
+        intervals [21]:
+            xmin = 22.06972916666666 
+            xmax = 23.19595833333333 
+            text = "nu_nga_da" 
+        intervals [22]:
+            xmin = 23.19595833333333 
+            xmax = 24.276999999999997 
+            text = "mi_yu_ke" 
+        intervals [23]:
+            xmin = 24.276999999999997 
+            xmax = 25.38570833333333 
+            text = "to_pae_wae" 
+        intervals [24]:
+            xmin = 25.38570833333333 
+            xmax = 26.508812499999998 
+            text = "nu_yu_da" 
+        intervals [25]:
+            xmin = 26.508812499999998 
+            xmax = 27.635791666666663 
+            text = "to_nga_wae" 
+        intervals [26]:
+            xmin = 27.635791666666663 
+            xmax = 28.75964583333333 
+            text = "to_yu_wae" 
+        intervals [27]:
+            xmin = 28.75964583333333 
+            xmax = 29.8438125 
+            text = "mi_nga_ke" 
+        intervals [28]:
+            xmin = 29.8438125 
+            xmax = 30.970041666666667 
+            text = "nu_nga_da" 
+        intervals [29]:
+            xmin = 30.970041666666667 
+            xmax = 32.078 
+            text = "nu_pae_da" 
+        intervals [30]:
+            xmin = 32.078 
+            xmax = 33.20497916666667 
+            text = "to_nga_wae" 
+        intervals [31]:
+            xmin = 33.20497916666667 
+            xmax = 34.32808333333333 
+            text = "nu_yu_da" 
+        intervals [32]:
+            xmin = 34.32808333333333 
+            xmax = 35.4519375 
+            text = "to_yu_wae" 
+        intervals [33]:
+            xmin = 35.4519375 
+            xmax = 36.56064583333333 
+            text = "to_pae_wae" 
+        intervals [34]:
+            xmin = 36.56064583333333 
+            xmax = 37.641687499999996 
+            text = "mi_yu_ke" 
+        intervals [35]:
+            xmin = 37.641687499999996 
+            xmax = 38.725854166666664 
+            text = "mi_nga_ke" 
+        intervals [36]:
+            xmin = 38.725854166666664 
+            xmax = 39.79175 
+            text = "mi_pae_ke" 
+        intervals [37]:
+            xmin = 39.79175 
+            xmax = 40.899708333333336 
+            text = "nu_pae_da" 
+        intervals [38]:
+            xmin = 40.899708333333336 
+            xmax = 42.0228125 
+            text = "nu_yu_da" 
+        intervals [39]:
+            xmin = 42.0228125 
+            xmax = 43.103854166666665 
+            text = "mi_yu_ke" 
+        intervals [40]:
+            xmin = 43.103854166666665 
+            xmax = 44.23008333333333 
+            text = "nu_nga_da" 
+        intervals [41]:
+            xmin = 44.23008333333333 
+            xmax = 45.29597916666667 
+            text = "mi_pae_ke" 
+        intervals [42]:
+            xmin = 45.29597916666667 
+            xmax = 46.422958333333334 
+            text = "to_nga_wae" 
+        intervals [43]:
+            xmin = 46.422958333333334 
+            xmax = 47.531666666666666 
+            text = "to_pae_wae" 
+        intervals [44]:
+            xmin = 47.531666666666666 
+            xmax = 48.655520833333334 
+            text = "to_yu_wae" 
+        intervals [45]:
+            xmin = 48.655520833333334 
+            xmax = 49.7396875 
+            text = "mi_nga_ke" 
+        intervals [46]:
+            xmin = 49.7396875 
+            xmax = 50.820729166666666 
+            text = "mi_yu_ke" 
+        intervals [47]:
+            xmin = 50.820729166666666 
+            xmax = 51.946958333333335 
+            text = "nu_nga_da" 
+        intervals [48]:
+            xmin = 51.946958333333335 
+            xmax = 53.05566666666667 
+            text = "to_pae_wae" 
+        intervals [49]:
+            xmin = 53.05566666666667 
+            xmax = 54.1215625 
+            text = "mi_pae_ke" 
+        intervals [50]:
+            xmin = 54.1215625 
+            xmax = 55.20572916666667 
+            text = "mi_nga_ke" 
+        intervals [51]:
+            xmin = 55.20572916666667 
+            xmax = 56.32958333333334 
+            text = "to_yu_wae" 
+        intervals [52]:
+            xmin = 56.32958333333334 
+            xmax = 57.437541666666675 
+            text = "nu_pae_da" 
+        intervals [53]:
+            xmin = 57.437541666666675 
+            xmax = 58.56452083333334 
+            text = "to_nga_wae" 
+        intervals [54]:
+            xmin = 58.56452083333334 
+            xmax = 59.687625000000004 
+            text = "nu_yu_da" 
+        intervals [55]:
+            xmin = 59.687625000000004 
+            xmax = 60.79558333333334 
+            text = "nu_pae_da" 
+        intervals [56]:
+            xmin = 60.79558333333334 
+            xmax = 61.876625000000004 
+            text = "mi_yu_ke" 
+        intervals [57]:
+            xmin = 61.876625000000004 
+            xmax = 62.96079166666667 
+            text = "mi_nga_ke" 
+        intervals [58]:
+            xmin = 62.96079166666667 
+            xmax = 64.08777083333334 
+            text = "to_nga_wae" 
+        intervals [59]:
+            xmin = 64.08777083333334 
+            xmax = 65.210875 
+            text = "nu_yu_da" 
+        intervals [60]:
+            xmin = 65.210875 
+            xmax = 66.31958333333334 
+            text = "to_pae_wae" 
+        intervals [61]:
+            xmin = 66.31958333333334 
+            xmax = 67.38547916666667 
+            text = "mi_pae_ke" 
+        intervals [62]:
+            xmin = 67.38547916666667 
+            xmax = 68.51170833333333 
+            text = "nu_nga_da" 
+        intervals [63]:
+            xmin = 68.51170833333333 
+            xmax = 69.63556249999999 
+            text = "to_yu_wae" 
+        intervals [64]:
+            xmin = 69.63556249999999 
+            xmax = 70.71660416666666 
+            text = "mi_yu_ke" 
+        intervals [65]:
+            xmin = 70.71660416666666 
+            xmax = 71.80077083333332 
+            text = "mi_nga_ke" 
+        intervals [66]:
+            xmin = 71.80077083333332 
+            xmax = 72.86666666666665 
+            text = "mi_pae_ke" 
+        intervals [67]:
+            xmin = 72.86666666666665 
+            xmax = 73.9905208333333 
+            text = "to_yu_wae" 
+        intervals [68]:
+            xmin = 73.9905208333333 
+            xmax = 75.11749999999998 
+            text = "to_nga_wae" 
+        intervals [69]:
+            xmin = 75.11749999999998 
+            xmax = 76.24060416666664 
+            text = "nu_yu_da" 
+        intervals [70]:
+            xmin = 76.24060416666664 
+            xmax = 77.34856249999997 
+            text = "nu_pae_da" 
+        intervals [71]:
+            xmin = 77.34856249999997 
+            xmax = 78.45727083333331 
+            text = "to_pae_wae" 
+        intervals [72]:
+            xmin = 78.45727083333331 
+            xmax = 79.58349999999997 
+            text = "nu_nga_da" 
+        intervals [73]:
+            xmin = 79.58349999999997 
+            xmax = 80.6493958333333 
+            text = "mi_pae_ke" 
+        intervals [74]:
+            xmin = 80.6493958333333 
+            xmax = 81.75810416666664 
+            text = "to_pae_wae" 
+        intervals [75]:
+            xmin = 81.75810416666664 
+            xmax = 82.8843333333333 
+            text = "nu_nga_da" 
+        intervals [76]:
+            xmin = 82.8843333333333 
+            xmax = 83.96849999999996 
+            text = "mi_nga_ke" 
+        intervals [77]:
+            xmin = 83.96849999999996 
+            xmax = 85.07645833333329 
+            text = "nu_pae_da" 
+        intervals [78]:
+            xmin = 85.07645833333329 
+            xmax = 86.19956249999996 
+            text = "nu_yu_da" 
+        intervals [79]:
+            xmin = 86.19956249999996 
+            xmax = 87.28060416666662 
+            text = "mi_yu_ke" 
+        intervals [80]:
+            xmin = 87.28060416666662 
+            xmax = 88.40445833333328 
+            text = "to_yu_wae" 
+        intervals [81]:
+            xmin = 88.40445833333328 
+            xmax = 89.53143749999995 
+            text = "to_nga_wae" 
+        intervals [82]:
+            xmin = 89.53143749999995 
+            xmax = 90.61247916666662 
+            text = "mi_yu_ke" 
+        intervals [83]:
+            xmin = 90.61247916666662 
+            xmax = 91.69664583333328 
+            text = "mi_nga_ke" 
+        intervals [84]:
+            xmin = 91.69664583333328 
+            xmax = 92.82287499999994 
+            text = "nu_nga_da" 
+        intervals [85]:
+            xmin = 92.82287499999994 
+            xmax = 93.93083333333327 
+            text = "nu_pae_da" 
+        intervals [86]:
+            xmin = 93.93083333333327 
+            xmax = 95.05781249999994 
+            text = "to_nga_wae" 
+        intervals [87]:
+            xmin = 95.05781249999994 
+            xmax = 96.16652083333328 
+            text = "to_pae_wae" 
+        intervals [88]:
+            xmin = 96.16652083333328 
+            xmax = 97.28962499999994 
+            text = "nu_yu_da" 
+        intervals [89]:
+            xmin = 97.28962499999994 
+            xmax = 98.35552083333327 
+            text = "mi_pae_ke" 
+        intervals [90]:
+            xmin = 98.35552083333327 
+            xmax = 99.47937499999993 
+            text = "to_yu_wae" 
+        intervals [91]:
+            xmin = 99.47937499999993 
+            xmax = 100.58733333333326 
+            text = "nu_pae_da" 
+        intervals [92]:
+            xmin = 100.58733333333326 
+            xmax = 101.67149999999992 
+            text = "mi_nga_ke" 
+        intervals [93]:
+            xmin = 101.67149999999992 
+            xmax = 102.73739583333325 
+            text = "mi_pae_ke" 
+        intervals [94]:
+            xmin = 102.73739583333325 
+            xmax = 103.86437499999992 
+            text = "to_nga_wae" 
+        intervals [95]:
+            xmin = 103.86437499999992 
+            xmax = 104.99060416666659 
+            text = "nu_nga_da" 
+        intervals [96]:
+            xmin = 104.99060416666659 
+            xmax = 106.11445833333325 
+            text = "to_yu_wae" 
+        intervals [97]:
+            xmin = 106.11445833333325 
+            xmax = 107.22316666666659 
+            text = "to_pae_wae" 
+        intervals [98]:
+            xmin = 107.22316666666659 
+            xmax = 108.34627083333325 
+            text = "nu_yu_da" 
+        intervals [99]:
+            xmin = 108.34627083333325 
+            xmax = 109.42731249999991 
+            text = "mi_yu_ke" 
+        intervals [100]:
+            xmin = 109.42731249999991 
+            xmax = 110.49320833333324 
+            text = "mi_pae_ke" 
+        intervals [101]:
+            xmin = 110.49320833333324 
+            xmax = 111.6194374999999 
+            text = "nu_nga_da" 
+        intervals [102]:
+            xmin = 111.6194374999999 
+            xmax = 112.74641666666658 
+            text = "to_nga_wae" 
+        intervals [103]:
+            xmin = 112.74641666666658 
+            xmax = 113.85512499999992 
+            text = "to_pae_wae" 
+        intervals [104]:
+            xmin = 113.85512499999992 
+            xmax = 114.97822916666658 
+            text = "nu_yu_da" 
+        intervals [105]:
+            xmin = 114.97822916666658 
+            xmax = 116.05927083333324 
+            text = "mi_yu_ke" 
+        intervals [106]:
+            xmin = 116.05927083333324 
+            xmax = 117.16722916666657 
+            text = "nu_pae_da" 
+        intervals [107]:
+            xmin = 117.16722916666657 
+            xmax = 118.29108333333323 
+            text = "to_yu_wae" 
+        intervals [108]:
+            xmin = 118.29108333333323 
+            xmax = 119.3752499999999 
+            text = "mi_nga_ke" 
+        intervals [109]:
+            xmin = 119.3752499999999 
+            xmax = 120.50222916666657 
+            text = "to_nga_wae" 
+        intervals [110]:
+            xmin = 120.50222916666657 
+            xmax = 121.58327083333323 
+            text = "mi_yu_ke" 
+        intervals [111]:
+            xmin = 121.58327083333323 
+            xmax = 122.7063749999999 
+            text = "nu_yu_da" 
+        intervals [112]:
+            xmin = 122.7063749999999 
+            xmax = 123.83260416666656 
+            text = "nu_nga_da" 
+        intervals [113]:
+            xmin = 123.83260416666656 
+            xmax = 124.95645833333322 
+            text = "to_yu_wae" 
+        intervals [114]:
+            xmin = 124.95645833333322 
+            xmax = 126.02235416666655 
+            text = "mi_pae_ke" 
+        intervals [115]:
+            xmin = 126.02235416666655 
+            xmax = 127.1065208333332 
+            text = "mi_nga_ke" 
+        intervals [116]:
+            xmin = 127.1065208333332 
+            xmax = 128.21522916666655 
+            text = "to_pae_wae" 
+        intervals [117]:
+            xmin = 128.21522916666655 
+            xmax = 129.32318749999988 
+            text = "nu_pae_da" 
+        intervals [118]:
+            xmin = 129.32318749999988 
+            xmax = 130.44629166666655 
+            text = "nu_yu_da" 
+        intervals [119]:
+            xmin = 130.44629166666655 
+            xmax = 131.5701458333332 
+            text = "to_yu_wae" 
+        intervals [120]:
+            xmin = 131.5701458333332 
+            xmax = 132.6543124999999 
+            text = "mi_nga_ke" 
+        intervals [121]:
+            xmin = 132.6543124999999 
+            xmax = 133.78054166666655 
+            text = "nu_nga_da" 
+        intervals [122]:
+            xmin = 133.78054166666655 
+            xmax = 134.8892499999999 
+            text = "to_pae_wae" 
+        intervals [123]:
+            xmin = 134.8892499999999 
+            xmax = 135.97029166666655 
+            text = "mi_yu_ke" 
+        intervals [124]:
+            xmin = 135.97029166666655 
+            xmax = 137.07824999999988 
+            text = "nu_pae_da" 
+        intervals [125]:
+            xmin = 137.07824999999988 
+            xmax = 138.20522916666656 
+            text = "to_nga_wae" 
+        intervals [126]:
+            xmin = 138.20522916666656 
+            xmax = 139.2711249999999 
+            text = "mi_pae_ke" 
+        intervals [127]:
+            xmin = 139.2711249999999 
+            xmax = 140.39735416666656 
+            text = "nu_nga_da" 
+        intervals [128]:
+            xmin = 140.39735416666656 
+            xmax = 141.47839583333322 
+            text = "mi_yu_ke" 
+        intervals [129]:
+            xmin = 141.47839583333322 
+            xmax = 142.58635416666655 
+            text = "nu_pae_da" 
+        intervals [130]:
+            xmin = 142.58635416666655 
+            xmax = 143.70945833333323 
+            text = "nu_yu_da" 
+        intervals [131]:
+            xmin = 143.70945833333323 
+            xmax = 144.7936249999999 
+            text = "mi_nga_ke" 
+        intervals [132]:
+            xmin = 144.7936249999999 
+            xmax = 145.90233333333325 
+            text = "to_pae_wae" 
+        intervals [133]:
+            xmin = 145.90233333333325 
+            xmax = 147.0261874999999 
+            text = "to_yu_wae" 
+        intervals [134]:
+            xmin = 147.0261874999999 
+            xmax = 148.15316666666658 
+            text = "to_nga_wae" 
+        intervals [135]:
+            xmin = 148.15316666666658 
+            xmax = 149.21906249999992 
+            text = "mi_pae_ke" 
+        intervals [136]:
+            xmin = 149.21906249999992 
+            xmax = 150.3032291666666 
+            text = "mi_nga_ke" 
+        intervals [137]:
+            xmin = 150.3032291666666 
+            xmax = 151.41118749999993 
+            text = "nu_pae_da" 
+        intervals [138]:
+            xmin = 151.41118749999993 
+            xmax = 152.4922291666666 
+            text = "mi_yu_ke" 
+        intervals [139]:
+            xmin = 152.4922291666666 
+            xmax = 153.61845833333325 
+            text = "nu_nga_da" 
+        intervals [140]:
+            xmin = 153.61845833333325 
+            xmax = 154.6843541666666 
+            text = "mi_pae_ke" 
+        intervals [141]:
+            xmin = 154.6843541666666 
+            xmax = 155.80745833333327 
+            text = "nu_yu_da" 
+        intervals [142]:
+            xmin = 155.80745833333327 
+            xmax = 156.93443749999994 
+            text = "to_nga_wae" 
+        intervals [143]:
+            xmin = 156.93443749999994 
+            xmax = 158.04314583333328 
+            text = "to_pae_wae" 
+        intervals [144]:
+            xmin = 158.04314583333328 
+            xmax = 159.16699999999994 
+            text = "to_yu_wae" 
+        intervals [145]:
+            xmin = 159.16699999999994 
+            xmax = 160.29010416666662 
+            text = "nu_yu_da" 
+        intervals [146]:
+            xmin = 160.29010416666662 
+            xmax = 161.39806249999995 
+            text = "nu_pae_da" 
+        intervals [147]:
+            xmin = 161.39806249999995 
+            xmax = 162.5219166666666 
+            text = "to_yu_wae" 
+        intervals [148]:
+            xmin = 162.5219166666666 
+            xmax = 163.60295833333328 
+            text = "mi_yu_ke" 
+        intervals [149]:
+            xmin = 163.60295833333328 
+            xmax = 164.72993749999995 
+            text = "to_nga_wae" 
+        intervals [150]:
+            xmin = 164.72993749999995 
+            xmax = 165.8386458333333 
+            text = "to_pae_wae" 
+        intervals [151]:
+            xmin = 165.8386458333333 
+            xmax = 166.92281249999996 
+            text = "mi_nga_ke" 
+        intervals [152]:
+            xmin = 166.92281249999996 
+            xmax = 167.9887083333333 
+            text = "mi_pae_ke" 
+        intervals [153]:
+            xmin = 167.9887083333333 
+            xmax = 169.11493749999997 
+            text = "nu_nga_da" 
+        intervals [154]:
+            xmin = 169.11493749999997 
+            xmax = 170.2228958333333 
+            text = "nu_pae_da" 
+        intervals [155]:
+            xmin = 170.2228958333333 
+            xmax = 171.33160416666664 
+            text = "to_pae_wae" 
+        intervals [156]:
+            xmin = 171.33160416666664 
+            xmax = 172.4578333333333 
+            text = "nu_nga_da" 
+        intervals [157]:
+            xmin = 172.4578333333333 
+            xmax = 173.58168749999996 
+            text = "to_yu_wae" 
+        intervals [158]:
+            xmin = 173.58168749999996 
+            xmax = 174.70866666666663 
+            text = "to_nga_wae" 
+        intervals [159]:
+            xmin = 174.70866666666663 
+            xmax = 175.7928333333333 
+            text = "mi_nga_ke" 
+        intervals [160]:
+            xmin = 175.7928333333333 
+            xmax = 176.87387499999997 
+            text = "mi_yu_ke" 
+        intervals [161]:
+            xmin = 176.87387499999997 
+            xmax = 177.99697916666665 
+            text = "nu_yu_da" 
+        intervals [162]:
+            xmin = 177.99697916666665 
+            xmax = 179.062875 
+            text = "mi_pae_ke" 
+        intervals [163]:
+            xmin = 179.062875 
+            xmax = 180.14704166666667 
+            text = "mi_nga_ke" 
+        intervals [164]:
+            xmin = 180.14704166666667 
+            xmax = 181.2129375 
+            text = "mi_pae_ke" 
+        intervals [165]:
+            xmin = 181.2129375 
+            xmax = 182.32089583333334 
+            text = "nu_pae_da" 
+        intervals [166]:
+            xmin = 182.32089583333334 
+            xmax = 183.447875 
+            text = "to_nga_wae" 
+        intervals [167]:
+            xmin = 183.447875 
+            xmax = 184.52891666666667 
+            text = "mi_yu_ke" 
+        intervals [168]:
+            xmin = 184.52891666666667 
+            xmax = 185.65514583333334 
+            text = "nu_nga_da" 
+        intervals [169]:
+            xmin = 185.65514583333334 
+            xmax = 186.76385416666668 
+            text = "to_pae_wae" 
+        intervals [170]:
+            xmin = 186.76385416666668 
+            xmax = 187.88695833333335 
+            text = "nu_yu_da" 
+        intervals [171]:
+            xmin = 187.88695833333335 
+            xmax = 189.01081250000001 
+            text = "to_yu_wae" 
+        intervals [172]:
+            xmin = 189.01081250000001 
+            xmax = 190.09185416666668 
+            text = "mi_yu_ke" 
+        intervals [173]:
+            xmin = 190.09185416666668 
+            xmax = 191.20056250000002 
+            text = "to_pae_wae" 
+        intervals [174]:
+            xmin = 191.20056250000002 
+            xmax = 192.30852083333335 
+            text = "nu_pae_da" 
+        intervals [175]:
+            xmin = 192.30852083333335 
+            xmax = 193.432375 
+            text = "to_yu_wae" 
+        intervals [176]:
+            xmin = 193.432375 
+            xmax = 194.5554791666667 
+            text = "nu_yu_da" 
+        intervals [177]:
+            xmin = 194.5554791666667 
+            xmax = 195.68245833333336 
+            text = "to_nga_wae" 
+        intervals [178]:
+            xmin = 195.68245833333336 
+            xmax = 196.7483541666667 
+            text = "mi_pae_ke" 
+        intervals [179]:
+            xmin = 196.7483541666667 
+            xmax = 197.87458333333336 
+            text = "nu_nga_da" 
+        intervals [180]:
+            xmin = 197.87458333333336 
+            xmax = 198.95875000000004 
+            text = "mi_nga_ke" 
+        intervals [181]:
+            xmin = 198.95875000000004 
+            xmax = 200.0849791666667 
+            text = "nu_nga_da" 
+        intervals [182]:
+            xmin = 200.0849791666667 
+            xmax = 201.20808333333338 
+            text = "nu_yu_da" 
+        intervals [183]:
+            xmin = 201.20808333333338 
+            xmax = 202.28912500000004 
+            text = "mi_yu_ke" 
+        intervals [184]:
+            xmin = 202.28912500000004 
+            xmax = 203.39783333333338 
+            text = "to_pae_wae" 
+        intervals [185]:
+            xmin = 203.39783333333338 
+            xmax = 204.5057916666667 
+            text = "nu_pae_da" 
+        intervals [186]:
+            xmin = 204.5057916666667 
+            xmax = 205.63277083333338 
+            text = "to_nga_wae" 
+        intervals [187]:
+            xmin = 205.63277083333338 
+            xmax = 206.69866666666672 
+            text = "mi_pae_ke" 
+        intervals [188]:
+            xmin = 206.69866666666672 
+            xmax = 207.7828333333334 
+            text = "mi_nga_ke" 
+        intervals [189]:
+            xmin = 207.7828333333334 
+            xmax = 208.90668750000006 
+            text = "to_yu_wae" 
+        intervals [190]:
+            xmin = 208.90668750000006 
+            xmax = 209.99085416666674 
+            text = "mi_nga_ke" 
+        intervals [191]:
+            xmin = 209.99085416666674 
+            xmax = 211.05675000000008 
+            text = "mi_pae_ke" 
+        intervals [192]:
+            xmin = 211.05675000000008 
+            xmax = 212.16545833333342 
+            text = "to_pae_wae" 
+        intervals [193]:
+            xmin = 212.16545833333342 
+            xmax = 213.2924375000001 
+            text = "to_nga_wae" 
+        intervals [194]:
+            xmin = 213.2924375000001 
+            xmax = 214.41866666666675 
+            text = "nu_nga_da" 
+        intervals [195]:
+            xmin = 214.41866666666675 
+            xmax = 215.52662500000008 
+            text = "nu_pae_da" 
+        intervals [196]:
+            xmin = 215.52662500000008 
+            xmax = 216.64972916666676 
+            text = "nu_yu_da" 
+        intervals [197]:
+            xmin = 216.64972916666676 
+            xmax = 217.73077083333342 
+            text = "mi_yu_ke" 
+        intervals [198]:
+            xmin = 217.73077083333342 
+            xmax = 218.85462500000008 
+            text = "to_yu_wae" 
+        intervals [199]:
+            xmin = 218.85462500000008 
+            xmax = 219.98160416666676 
+            text = "to_nga_wae" 
+        intervals [200]:
+            xmin = 219.98160416666676 
+            xmax = 221.10783333333342 
+            text = "nu_nga_da" 
+        intervals [201]:
+            xmin = 221.10783333333342 
+            xmax = 222.2309375000001 
+            text = "nu_yu_da" 
+        intervals [202]:
+            xmin = 222.2309375000001 
+            xmax = 223.31510416666677 
+            text = "mi_nga_ke" 
+        intervals [203]:
+            xmin = 223.31510416666677 
+            xmax = 224.43895833333343 
+            text = "to_yu_wae" 
+        intervals [204]:
+            xmin = 224.43895833333343 
+            xmax = 225.50485416666677 
+            text = "mi_pae_ke" 
+        intervals [205]:
+            xmin = 225.50485416666677 
+            xmax = 226.6135625000001 
+            text = "to_pae_wae" 
+        intervals [206]:
+            xmin = 226.6135625000001 
+            xmax = 227.72152083333344 
+            text = "nu_pae_da" 
+        intervals [207]:
+            xmin = 227.72152083333344 
+            xmax = 228.8025625000001 
+            text = "mi_yu_ke" 
+        intervals [208]:
+            xmin = 228.8025625000001 
+            xmax = 229.91052083333344 
+            text = "nu_pae_da" 
+        intervals [209]:
+            xmin = 229.91052083333344 
+            xmax = 230.97641666666678 
+            text = "mi_pae_ke" 
+        intervals [210]:
+            xmin = 230.97641666666678 
+            xmax = 232.10339583333345 
+            text = "to_nga_wae" 
+        intervals [211]:
+            xmin = 232.10339583333345 
+            xmax = 233.18443750000012 
+            text = "mi_yu_ke" 
+        intervals [212]:
+            xmin = 233.18443750000012 
+            xmax = 234.2686041666668 
+            text = "mi_nga_ke" 
+        intervals [213]:
+            xmin = 234.2686041666668 
+            xmax = 235.37731250000013 
+            text = "to_pae_wae" 
+        intervals [214]:
+            xmin = 235.37731250000013 
+            xmax = 236.5035416666668 
+            text = "nu_nga_da" 
+        intervals [215]:
+            xmin = 236.5035416666668 
+            xmax = 237.62664583333347 
+            text = "nu_yu_da" 
+        intervals [216]:
+            xmin = 237.62664583333347 
+            xmax = 238.75050000000013 
+            text = "to_yu_wae" 
+        intervals [217]:
+            xmin = 238.75050000000013 
+            xmax = 239.8774791666668 
+            text = "to_nga_wae" 
+        intervals [218]:
+            xmin = 239.8774791666668 
+            xmax = 240.98543750000013 
+            text = "nu_pae_da" 
+        intervals [219]:
+            xmin = 240.98543750000013 
+            xmax = 242.1116666666668 
+            text = "nu_nga_da" 
+        intervals [220]:
+            xmin = 242.1116666666668 
+            xmax = 243.22037500000013 
+            text = "to_pae_wae" 
+        intervals [221]:
+            xmin = 243.22037500000013 
+            xmax = 244.3014166666668 
+            text = "mi_yu_ke" 
+        intervals [222]:
+            xmin = 244.3014166666668 
+            xmax = 245.42527083333346 
+            text = "to_yu_wae" 
+        intervals [223]:
+            xmin = 245.42527083333346 
+            xmax = 246.54837500000014 
+            text = "nu_yu_da" 
+        intervals [224]:
+            xmin = 246.54837500000014 
+            xmax = 247.6325416666668 
+            text = "mi_nga_ke" 
+        intervals [225]:
+            xmin = 247.6325416666668 
+            xmax = 248.69843750000015 
+            text = "mi_pae_ke" 
+        intervals [226]:
+            xmin = 248.69843750000015 
+            xmax = 249.82466666666681 
+            text = "nu_nga_da" 
+        intervals [227]:
+            xmin = 249.82466666666681 
+            xmax = 250.89056250000016 
+            text = "mi_pae_ke" 
+        intervals [228]:
+            xmin = 250.89056250000016 
+            xmax = 251.9992708333335 
+            text = "to_pae_wae" 
+        intervals [229]:
+            xmin = 251.9992708333335 
+            xmax = 253.12625000000017 
+            text = "to_nga_wae" 
+        intervals [230]:
+            xmin = 253.12625000000017 
+            xmax = 254.21041666666684 
+            text = "mi_nga_ke" 
+        intervals [231]:
+            xmin = 254.21041666666684 
+            xmax = 255.2914583333335 
+            text = "mi_yu_ke" 
+        intervals [232]:
+            xmin = 255.2914583333335 
+            xmax = 256.41456250000016 
+            text = "nu_yu_da" 
+        intervals [233]:
+            xmin = 256.41456250000016 
+            xmax = 257.5225208333335 
+            text = "nu_pae_da" 
+        intervals [234]:
+            xmin = 257.5225208333335 
+            xmax = 258.64637500000015 
+            text = "to_yu_wae" 
+        intervals [235]:
+            xmin = 258.64637500000015 
+            xmax = 259.77260416666684 
+            text = "nu_nga_da" 
+        intervals [236]:
+            xmin = 259.77260416666684 
+            xmax = 260.8567708333335 
+            text = "mi_nga_ke" 
+        intervals [237]:
+            xmin = 260.8567708333335 
+            xmax = 261.9226666666668 
+            text = "mi_pae_ke" 
+        intervals [238]:
+            xmin = 261.9226666666668 
+            xmax = 263.0457708333335 
+            text = "nu_yu_da" 
+        intervals [239]:
+            xmin = 263.0457708333335 
+            xmax = 264.1268125000002 
+            text = "mi_yu_ke" 
+        intervals [240]:
+            xmin = 264.1268125000002 
+            xmax = 265.2347708333335 
+            text = "nu_pae_da" 
+        intervals [241]:
+            xmin = 265.2347708333335 
+            xmax = 266.34347916666684 
+            text = "to_pae_wae" 
+        intervals [242]:
+            xmin = 266.34347916666684 
+            xmax = 267.4704583333335 
+            text = "to_nga_wae" 
+        intervals [243]:
+            xmin = 267.4704583333335 
+            xmax = 268.59431250000017 
+            text = "to_yu_wae" 
+        intervals [244]:
+            xmin = 268.59431250000017 
+            xmax = 269.7022708333335 
+            text = "nu_pae_da" 
+        intervals [245]:
+            xmin = 269.7022708333335 
+            xmax = 270.7833125000002 
+            text = "mi_yu_ke" 
+        intervals [246]:
+            xmin = 270.7833125000002 
+            xmax = 271.86747916666684 
+            text = "mi_nga_ke" 
+        intervals [247]:
+            xmin = 271.86747916666684 
+            xmax = 272.9905833333335 
+            text = "nu_yu_da" 
+        intervals [248]:
+            xmin = 272.9905833333335 
+            xmax = 274.05647916666686 
+            text = "mi_pae_ke" 
+        intervals [249]:
+            xmin = 274.05647916666686 
+            xmax = 275.1651875000002 
+            text = "to_pae_wae" 
+        intervals [250]:
+            xmin = 275.1651875000002 
+            xmax = 276.29216666666684 
+            text = "to_nga_wae" 
+        intervals [251]:
+            xmin = 276.29216666666684 
+            xmax = 277.41839583333353 
+            text = "nu_nga_da" 
+        intervals [252]:
+            xmin = 277.41839583333353 
+            xmax = 278.5422500000002 
+            text = "to_yu_wae" 
+        intervals [253]:
+            xmin = 278.5422500000002 
+            xmax = 279.6509583333335 
+            text = "to_pae_wae" 
+        intervals [254]:
+            xmin = 279.6509583333335 
+            xmax = 280.71685416666685 
+            text = "mi_pae_ke" 
+        intervals [255]:
+            xmin = 280.71685416666685 
+            xmax = 281.84308333333354 
+            text = "nu_nga_da" 
+        intervals [256]:
+            xmin = 281.84308333333354 
+            xmax = 282.9669375000002 
+            text = "to_yu_wae" 
+        intervals [257]:
+            xmin = 282.9669375000002 
+            xmax = 284.0900416666669 
+            text = "nu_yu_da" 
+        intervals [258]:
+            xmin = 284.0900416666669 
+            xmax = 285.17108333333357 
+            text = "mi_yu_ke" 
+        intervals [259]:
+            xmin = 285.17108333333357 
+            xmax = 286.29806250000024 
+            text = "to_nga_wae" 
+        intervals [260]:
+            xmin = 286.29806250000024 
+            xmax = 287.40602083333357 
+            text = "nu_pae_da" 
+        intervals [261]:
+            xmin = 287.40602083333357 
+            xmax = 288.4901875000002 
+            text = "mi_nga_ke" 
+        intervals [262]:
+            xmin = 288.4901875000002 
+            xmax = 289.5712291666669 
+            text = "mi_yu_ke" 
+        intervals [263]:
+            xmin = 289.5712291666669 
+            xmax = 290.6974583333336 
+            text = "nu_nga_da" 
+        intervals [264]:
+            xmin = 290.6974583333336 
+            xmax = 291.8205625000003 
+            text = "nu_yu_da" 
+        intervals [265]:
+            xmin = 291.8205625000003 
+            xmax = 292.94441666666694 
+            text = "to_yu_wae" 
+        intervals [266]:
+            xmin = 292.94441666666694 
+            xmax = 294.0103125000003 
+            text = "mi_pae_ke" 
+        intervals [267]:
+            xmin = 294.0103125000003 
+            xmax = 295.13729166666695 
+            text = "to_nga_wae" 
+        intervals [268]:
+            xmin = 295.13729166666695 
+            xmax = 296.2214583333336 
+            text = "mi_nga_ke" 
+        intervals [269]:
+            xmin = 296.2214583333336 
+            xmax = 297.3301666666669 
+            text = "to_pae_wae" 
+        intervals [270]:
+            xmin = 297.3301666666669 
+            xmax = 298.43812500000024 
+            text = "nu_pae_da" 
+        intervals [271]:
+            xmin = 298.43812500000024 
+            xmax = 299.54683333333355 
+            text = "to_pae_wae" 
+        intervals [272]:
+            xmin = 299.54683333333355 
+            xmax = 300.67306250000024 
+            text = "nu_nga_da" 
+        intervals [273]:
+            xmin = 300.67306250000024 
+            xmax = 301.78102083333357 
+            text = "nu_pae_da" 
+        intervals [274]:
+            xmin = 301.78102083333357 
+            xmax = 302.90800000000024 
+            text = "to_nga_wae" 
+        intervals [275]:
+            xmin = 302.90800000000024 
+            xmax = 303.9738958333336 
+            text = "mi_pae_ke" 
+        intervals [276]:
+            xmin = 303.9738958333336 
+            xmax = 305.09700000000026 
+            text = "nu_yu_da" 
+        intervals [277]:
+            xmin = 305.09700000000026 
+            xmax = 306.1811666666669 
+            text = "mi_nga_ke" 
+        intervals [278]:
+            xmin = 306.1811666666669 
+            xmax = 307.3050208333336 
+            text = "to_yu_wae" 
+        intervals [279]:
+            xmin = 307.3050208333336 
+            xmax = 308.38606250000026 
+            text = "mi_yu_ke" 
+        intervals [280]:
+            xmin = 308.38606250000026 
+            xmax = 309.4519583333336 
+            text = "mi_pae_ke" 
+        intervals [281]:
+            xmin = 309.4519583333336 
+            xmax = 310.5781875000003 
+            text = "nu_nga_da" 
+        intervals [282]:
+            xmin = 310.5781875000003 
+            xmax = 311.659229166667 
+            text = "mi_yu_ke" 
+        intervals [283]:
+            xmin = 311.659229166667 
+            xmax = 312.74339583333364 
+            text = "mi_nga_ke" 
+        intervals [284]:
+            xmin = 312.74339583333364 
+            xmax = 313.8703750000003 
+            text = "to_nga_wae" 
+        intervals [285]:
+            xmin = 313.8703750000003 
+            xmax = 314.993479166667 
+            text = "nu_yu_da" 
+        intervals [286]:
+            xmin = 314.993479166667 
+            xmax = 316.1014375000003 
+            text = "nu_pae_da" 
+        intervals [287]:
+            xmin = 316.1014375000003 
+            xmax = 317.2101458333336 
+            text = "to_pae_wae" 
+        intervals [288]:
+            xmin = 317.2101458333336 
+            xmax = 318.3340000000003 
+            text = "to_yu_wae" 
+        intervals [289]:
+            xmin = 318.3340000000003 
+            xmax = 319.4419583333336 
+            text = "nu_pae_da" 
+        intervals [290]:
+            xmin = 319.4419583333336 
+            xmax = 320.50785416666696 
+            text = "mi_pae_ke" 
+        intervals [291]:
+            xmin = 320.50785416666696 
+            xmax = 321.61656250000027 
+            text = "to_pae_wae" 
+        intervals [292]:
+            xmin = 321.61656250000027 
+            xmax = 322.73966666666695 
+            text = "nu_yu_da" 
+        intervals [293]:
+            xmin = 322.73966666666695 
+            xmax = 323.8666458333336 
+            text = "to_nga_wae" 
+        intervals [294]:
+            xmin = 323.8666458333336 
+            xmax = 324.9476875000003 
+            text = "mi_yu_ke" 
+        intervals [295]:
+            xmin = 324.9476875000003 
+            xmax = 326.073916666667 
+            text = "nu_nga_da" 
+        intervals [296]:
+            xmin = 326.073916666667 
+            xmax = 327.15808333333365 
+            text = "mi_nga_ke" 
+        intervals [297]:
+            xmin = 327.15808333333365 
+            xmax = 328.2819375000003 
+            text = "to_yu_wae" 
+        intervals [298]:
+            xmin = 328.2819375000003 
+            xmax = 329.34783333333365 
+            text = "mi_pae_ke" 
+        intervals [299]:
+            xmin = 329.34783333333365 
+            xmax = 330.4716875000003 
+            text = "to_yu_wae" 
+        intervals [300]:
+            xmin = 330.4716875000003 
+            xmax = 331.5803958333336 
+            text = "to_pae_wae" 
+        intervals [301]:
+            xmin = 331.5803958333336 
+            xmax = 332.7066250000003 
+            text = "nu_nga_da" 
+        intervals [302]:
+            xmin = 332.7066250000003 
+            xmax = 333.787666666667 
+            text = "mi_yu_ke" 
+        intervals [303]:
+            xmin = 333.787666666667 
+            xmax = 334.9146458333337 
+            text = "to_nga_wae" 
+        intervals [304]:
+            xmin = 334.9146458333337 
+            xmax = 336.022604166667 
+            text = "nu_pae_da" 
+        intervals [305]:
+            xmin = 336.022604166667 
+            xmax = 337.1457083333337 
+            text = "nu_yu_da" 
+        intervals [306]:
+            xmin = 337.1457083333337 
+            xmax = 338.22987500000033 
+            text = "mi_nga_ke" 
+        intervals [307]:
+            xmin = 338.22987500000033 
+            xmax = 339.33783333333366 
+            text = "nu_pae_da" 
+        intervals [308]:
+            xmin = 339.33783333333366 
+            xmax = 340.446541666667 
+            text = "to_pae_wae" 
+        intervals [309]:
+            xmin = 340.446541666667 
+            xmax = 341.52758333333367 
+            text = "mi_yu_ke" 
+        intervals [310]:
+            xmin = 341.52758333333367 
+            xmax = 342.6514375000003 
+            text = "to_yu_wae" 
+        intervals [311]:
+            xmin = 342.6514375000003 
+            xmax = 343.735604166667 
+            text = "mi_nga_ke" 
+        intervals [312]:
+            xmin = 343.735604166667 
+            xmax = 344.86258333333365 
+            text = "to_nga_wae" 
+        intervals [313]:
+            xmin = 344.86258333333365 
+            xmax = 345.9856875000003 
+            text = "nu_yu_da" 
+        intervals [314]:
+            xmin = 345.9856875000003 
+            xmax = 347.05158333333367 
+            text = "mi_pae_ke" 
+        intervals [315]:
+            xmin = 347.05158333333367 
+            xmax = 348.17781250000036 
+            text = "nu_nga_da" 
+        intervals [316]:
+            xmin = 348.17781250000036 
+            xmax = 349.30091666666704 
+            text = "nu_yu_da" 
+        intervals [317]:
+            xmin = 349.30091666666704 
+            xmax = 350.4278958333337 
+            text = "to_nga_wae" 
+        intervals [318]:
+            xmin = 350.4278958333337 
+            xmax = 351.49379166666705 
+            text = "mi_pae_ke" 
+        intervals [319]:
+            xmin = 351.49379166666705 
+            xmax = 352.60250000000036 
+            text = "to_pae_wae" 
+        intervals [320]:
+            xmin = 352.60250000000036 
+            xmax = 353.68354166666705 
+            text = "mi_yu_ke" 
+        intervals [321]:
+            xmin = 353.68354166666705 
+            xmax = 354.8073958333337 
+            text = "to_yu_wae" 
+        intervals [322]:
+            xmin = 354.8073958333337 
+            xmax = 355.89156250000036 
+            text = "mi_nga_ke" 
+        intervals [323]:
+            xmin = 355.89156250000036 
+            xmax = 356.9995208333337 
+            text = "nu_pae_da" 
+        intervals [324]:
+            xmin = 356.9995208333337 
+            xmax = 358.1257500000004 
+            text = "nu_nga_da" 
+        intervals [325]:
+            xmin = 358.1257500000004 
+            xmax = 359.2337083333337 
+            text = "nu_pae_da" 
+        intervals [326]:
+            xmin = 359.2337083333337 
+            xmax = 360.3606875000004 
+            text = "to_nga_wae" 
+        intervals [327]:
+            xmin = 360.3606875000004 
+            xmax = 361.4693958333337 
+            text = "to_pae_wae" 
+        intervals [328]:
+            xmin = 361.4693958333337 
+            xmax = 362.59325000000035 
+            text = "to_yu_wae" 
+        intervals [329]:
+            xmin = 362.59325000000035 
+            xmax = 363.67429166666705 
+            text = "mi_yu_ke" 
+        intervals [330]:
+            xmin = 363.67429166666705 
+            xmax = 364.7401875000004 
+            text = "mi_pae_ke" 
+        intervals [331]:
+            xmin = 364.7401875000004 
+            xmax = 365.82435416666704 
+            text = "mi_nga_ke" 
+        intervals [332]:
+            xmin = 365.82435416666704 
+            xmax = 366.9505833333337 
+            text = "nu_nga_da" 
+        intervals [333]:
+            xmin = 366.9505833333337 
+            xmax = 368.0736875000004 
+            text = "nu_yu_da" 
+        intervals [334]:
+            xmin = 368.0736875000004 
+            xmax = 369.1823958333337 
+            text = "to_pae_wae" 
+        intervals [335]:
+            xmin = 369.1823958333337 
+            xmax = 370.29035416666704 
+            text = "nu_pae_da" 
+        intervals [336]:
+            xmin = 370.29035416666704 
+            xmax = 371.41658333333373 
+            text = "nu_nga_da" 
+        intervals [337]:
+            xmin = 371.41658333333373 
+            xmax = 372.5435625000004 
+            text = "to_nga_wae" 
+        intervals [338]:
+            xmin = 372.5435625000004 
+            xmax = 373.6666666666671 
+            text = "nu_yu_da" 
+        intervals [339]:
+            xmin = 373.6666666666671 
+            xmax = 374.75083333333373 
+            text = "mi_nga_ke" 
+        intervals [340]:
+            xmin = 374.75083333333373 
+            xmax = 375.8167291666671 
+            text = "mi_pae_ke" 
+        intervals [341]:
+            xmin = 375.8167291666671 
+            xmax = 376.89777083333377 
+            text = "mi_yu_ke" 
+        intervals [342]:
+            xmin = 376.89777083333377 
+            xmax = 378.0216250000004 
+            text = "to_yu_wae" 
+        intervals [343]:
+            xmin = 378.0216250000004 
+            xmax = 379.1026666666671 
+            text = "mi_yu_ke" 
+        intervals [344]:
+            xmin = 379.1026666666671 
+            xmax = 380.2296458333338 
+            text = "to_nga_wae" 
+        intervals [345]:
+            xmin = 380.2296458333338 
+            xmax = 381.31381250000044 
+            text = "mi_nga_ke" 
+        intervals [346]:
+            xmin = 381.31381250000044 
+            xmax = 382.3797083333338 
+            text = "mi_pae_ke" 
+        intervals [347]:
+            xmin = 382.3797083333338 
+            xmax = 383.50356250000044 
+            text = "to_yu_wae" 
+        intervals [348]:
+            xmin = 383.50356250000044 
+            xmax = 384.61227083333375 
+            text = "to_pae_wae" 
+        intervals [349]:
+            xmin = 384.61227083333375 
+            xmax = 385.7202291666671 
+            text = "nu_pae_da" 
+        intervals [350]:
+            xmin = 385.7202291666671 
+            xmax = 386.84645833333377 
+            text = "nu_nga_da" 
+        intervals [351]:
+            xmin = 386.84645833333377 
+            xmax = 387.96956250000045 
+            text = "nu_yu_da" 
+        intervals [352]:
+            xmin = 387.96956250000045 
+            xmax = 389.05060416666714 
+            text = "mi_yu_ke" 
+        intervals [353]:
+            xmin = 389.05060416666714 
+            xmax = 390.15856250000047 
+            text = "nu_pae_da" 
+        intervals [354]:
+            xmin = 390.15856250000047 
+            xmax = 391.28166666666715 
+            text = "nu_yu_da" 
+        intervals [355]:
+            xmin = 391.28166666666715 
+            xmax = 392.3475625000005 
+            text = "mi_pae_ke" 
+        intervals [356]:
+            xmin = 392.3475625000005 
+            xmax = 393.4562708333338 
+            text = "to_pae_wae" 
+        intervals [357]:
+            xmin = 393.4562708333338 
+            xmax = 394.54043750000045 
+            text = "mi_nga_ke" 
+        intervals [358]:
+            xmin = 394.54043750000045 
+            xmax = 395.6642916666671 
+            text = "to_yu_wae" 
+        intervals [359]:
+            xmin = 395.6642916666671 
+            xmax = 396.7905208333338 
+            text = "nu_nga_da" 
+        intervals [360]:
+            xmin = 396.7905208333338 
+            xmax = 397.9175000000005 
+            text = "to_nga_wae" 
+        intervals [361]:
+            xmin = 397.9175000000005 
+            xmax = 398.9833958333338 
+            text = "mi_pae_ke" 
+        intervals [362]:
+            xmin = 398.9833958333338 
+            xmax = 400.06756250000046 
+            text = "mi_nga_ke" 
+        intervals [363]:
+            xmin = 400.06756250000046 
+            xmax = 401.14860416666716 
+            text = "mi_yu_ke" 
+        intervals [364]:
+            xmin = 401.14860416666716 
+            xmax = 402.2565625000005 
+            text = "nu_pae_da" 
+        intervals [365]:
+            xmin = 402.2565625000005 
+            xmax = 403.37966666666716 
+            text = "nu_yu_da" 
+        intervals [366]:
+            xmin = 403.37966666666716 
+            xmax = 404.50664583333383 
+            text = "to_nga_wae" 
+        intervals [367]:
+            xmin = 404.50664583333383 
+            xmax = 405.61535416666715 
+            text = "to_pae_wae" 
+        intervals [368]:
+            xmin = 405.61535416666715 
+            xmax = 406.74158333333384 
+            text = "nu_nga_da" 
+        intervals [369]:
+            xmin = 406.74158333333384 
+            xmax = 407.8654375000005 
+            text = "to_yu_wae" 
+        intervals [370]:
+            xmin = 407.8654375000005 
+            xmax = 408.9885416666672 
+            text = "nu_yu_da" 
+        intervals [371]:
+            xmin = 408.9885416666672 
+            xmax = 410.06958333333387 
+            text = "mi_yu_ke" 
+        intervals [372]:
+            xmin = 410.06958333333387 
+            xmax = 411.19581250000056 
+            text = "nu_nga_da" 
+        intervals [373]:
+            xmin = 411.19581250000056 
+            xmax = 412.2799791666672 
+            text = "mi_nga_ke" 
+        intervals [374]:
+            xmin = 412.2799791666672 
+            xmax = 413.3886875000005 
+            text = "to_pae_wae" 
+        intervals [375]:
+            xmin = 413.3886875000005 
+            xmax = 414.49664583333384 
+            text = "nu_pae_da" 
+        intervals [376]:
+            xmin = 414.49664583333384 
+            xmax = 415.5625416666672 
+            text = "mi_pae_ke" 
+        intervals [377]:
+            xmin = 415.5625416666672 
+            xmax = 416.68952083333386 
+            text = "to_nga_wae" 
+        intervals [378]:
+            xmin = 416.68952083333386 
+            xmax = 417.8133750000005 
+            text = "to_yu_wae" 
+        intervals [379]:
+            xmin = 417.8133750000005 
+            xmax = 418.8944166666672 
+            text = "mi_yu_ke" 
+        intervals [380]:
+            xmin = 418.8944166666672 
+            xmax = 419.97858333333386 
+            text = "mi_nga_ke" 
+        intervals [381]:
+            xmin = 419.97858333333386 
+            xmax = 421.10481250000055 
+            text = "nu_nga_da" 
+        intervals [382]:
+            xmin = 421.10481250000055 
+            xmax = 422.1707083333339 
+            text = "mi_pae_ke" 
+        intervals [383]:
+            xmin = 422.1707083333339 
+            xmax = 423.29381250000057 
+            text = "nu_yu_da" 
+        intervals [384]:
+            xmin = 423.29381250000057 
+            xmax = 424.42079166666724 
+            text = "to_nga_wae" 
+        intervals [385]:
+            xmin = 424.42079166666724 
+            xmax = 425.52950000000055 
+            text = "to_pae_wae" 
+        intervals [386]:
+            xmin = 425.52950000000055 
+            xmax = 426.6374583333339 
+            text = "nu_pae_da" 
+        intervals [387]:
+            xmin = 426.6374583333339 
+            xmax = 427.76131250000054 
+            text = "to_yu_wae" 
+        intervals [388]:
+            xmin = 427.76131250000054 
+            xmax = 428.8844166666672 
+            text = "nu_yu_da" 
+        intervals [389]:
+            xmin = 428.8844166666672 
+            xmax = 429.9654583333339 
+            text = "mi_yu_ke" 
+        intervals [390]:
+            xmin = 429.9654583333339 
+            xmax = 431.03135416666726 
+            text = "mi_pae_ke" 
+        intervals [391]:
+            xmin = 431.03135416666726 
+            xmax = 432.15758333333395 
+            text = "nu_nga_da" 
+        intervals [392]:
+            xmin = 432.15758333333395 
+            xmax = 433.26629166666726 
+            text = "to_pae_wae" 
+        intervals [393]:
+            xmin = 433.26629166666726 
+            xmax = 434.3504583333339 
+            text = "mi_nga_ke" 
+        intervals [394]:
+            xmin = 434.3504583333339 
+            xmax = 435.4774375000006 
+            text = "to_nga_wae" 
+        intervals [395]:
+            xmin = 435.4774375000006 
+            xmax = 436.5853958333339 
+            text = "nu_pae_da" 
+        intervals [396]:
+            xmin = 436.5853958333339 
+            xmax = 437.70925000000057 
+            text = "to_yu_wae" 
+        intervals [397]:
+            xmin = 437.70925000000057 
+            xmax = 438.8179583333339 
+            text = "to_pae_wae" 
+        intervals [398]:
+            xmin = 438.8179583333339 
+            xmax = 439.9021250000005 
+            text = "mi_nga_ke" 
+        intervals [399]:
+            xmin = 439.9021250000005 
+            xmax = 441.0283541666672 
+            text = "nu_nga_da" 
+        intervals [400]:
+            xmin = 441.0283541666672 
+            xmax = 442.09425000000056 
+            text = "mi_pae_ke" 
+        intervals [401]:
+            xmin = 442.09425000000056 
+            xmax = 443.22122916666723 
+            text = "to_nga_wae" 
+        intervals [402]:
+            xmin = 443.22122916666723 
+            xmax = 444.32918750000056 
+            text = "nu_pae_da" 
+        intervals [403]:
+            xmin = 444.32918750000056 
+            xmax = 445.41022916666725 
+            text = "mi_yu_ke" 
+        intervals [404]:
+            xmin = 445.41022916666725 
+            xmax = 446.5333333333339 
+            text = "nu_yu_da" 
+        intervals [405]:
+            xmin = 446.5333333333339 
+            xmax = 447.6571875000006 
+            text = "to_yu_wae" 
+        intervals [406]:
+            xmin = 447.6571875000006 
+            xmax = 448.78416666666726 
+            text = "to_nga_wae" 
+        intervals [407]:
+            xmin = 448.78416666666726 
+            xmax = 449.8928750000006 
+            text = "to_pae_wae" 
+        intervals [408]:
+            xmin = 449.8928750000006 
+            xmax = 451.0008333333339 
+            text = "nu_pae_da" 
+        intervals [409]:
+            xmin = 451.0008333333339 
+            xmax = 452.12468750000056 
+            text = "to_yu_wae" 
+        intervals [410]:
+            xmin = 452.12468750000056 
+            xmax = 453.20572916666725 
+            text = "mi_yu_ke" 
+        intervals [411]:
+            xmin = 453.20572916666725 
+            xmax = 454.2898958333339 
+            text = "mi_nga_ke" 
+        intervals [412]:
+            xmin = 454.2898958333339 
+            xmax = 455.4130000000006 
+            text = "nu_yu_da" 
+        intervals [413]:
+            xmin = 455.4130000000006 
+            xmax = 456.53922916666727 
+            text = "nu_nga_da" 
+        intervals [414]:
+            xmin = 456.53922916666727 
+            xmax = 457.6051250000006 
+            text = "mi_pae_ke" 
+        intervals [415]:
+            xmin = 457.6051250000006 
+            xmax = 458.7313541666673 
+            text = "nu_nga_da" 
+        intervals [416]:
+            xmin = 458.7313541666673 
+            xmax = 459.8400625000006 
+            text = "to_pae_wae" 
+        intervals [417]:
+            xmin = 459.8400625000006 
+            xmax = 460.92422916666726 
+            text = "mi_nga_ke" 
+        intervals [418]:
+            xmin = 460.92422916666726 
+            xmax = 462.0321875000006 
+            text = "nu_pae_da" 
+        intervals [419]:
+            xmin = 462.0321875000006 
+            xmax = 463.1132291666673 
+            text = "mi_yu_ke" 
+        intervals [420]:
+            xmin = 463.1132291666673 
+            xmax = 464.24020833333395 
+            text = "to_nga_wae" 
+        intervals [421]:
+            xmin = 464.24020833333395 
+            xmax = 465.3061041666673 
+            text = "mi_pae_ke" 
+        intervals [422]:
+            xmin = 465.3061041666673 
+            xmax = 466.429208333334 
+            text = "nu_yu_da" 
+        intervals [423]:
+            xmin = 466.429208333334 
+            xmax = 467.55306250000064 
+            text = "to_yu_wae" 
+        intervals [424]:
+            xmin = 467.55306250000064 
+            xmax = 468.66102083333396 
+            text = "nu_pae_da" 
+        intervals [425]:
+            xmin = 468.66102083333396 
+            xmax = 469.74206250000066 
+            text = "mi_yu_ke" 
+        intervals [426]:
+            xmin = 469.74206250000066 
+            xmax = 470.8262291666673 
+            text = "mi_nga_ke" 
+        intervals [427]:
+            xmin = 470.8262291666673 
+            xmax = 471.953208333334 
+            text = "to_nga_wae" 
+        intervals [428]:
+            xmin = 471.953208333334 
+            xmax = 473.07631250000065 
+            text = "nu_yu_da" 
+        intervals [429]:
+            xmin = 473.07631250000065 
+            xmax = 474.142208333334 
+            text = "mi_pae_ke" 
+        intervals [430]:
+            xmin = 474.142208333334 
+            xmax = 475.2509166666673 
+            text = "to_pae_wae" 
+        intervals [431]:
+            xmin = 475.2509166666673 
+            xmax = 476.377145833334 
+            text = "nu_nga_da" 
+        intervals [432]:
+            xmin = 476.377145833334 
+            xmax = 477.50100000000066 
+            text = "to_yu_wae" 
+        intervals [433]:
+            xmin = 477.50100000000066 
+            xmax = 478.62722916666735 
+            text = "nu_nga_da" 
+        intervals [434]:
+            xmin = 478.62722916666735 
+            xmax = 479.751083333334 
+            text = "to_yu_wae" 
+        intervals [435]:
+            xmin = 479.751083333334 
+            xmax = 480.8780625000007 
+            text = "to_nga_wae" 
+        intervals [436]:
+            xmin = 480.8780625000007 
+            xmax = 481.9591041666674 
+            text = "mi_yu_ke" 
+        intervals [437]:
+            xmin = 481.9591041666674 
+            xmax = 483.043270833334 
+            text = "mi_nga_ke" 
+        intervals [438]:
+            xmin = 483.043270833334 
+            xmax = 484.15197916666733 
+            text = "to_pae_wae" 
+        intervals [439]:
+            xmin = 484.15197916666733 
+            xmax = 485.275083333334 
+            text = "nu_yu_da" 
+        intervals [440]:
+            xmin = 485.275083333334 
+            xmax = 486.38304166666734 
+            text = "nu_pae_da" 
+        intervals [441]:
+            xmin = 486.38304166666734 
+            xmax = 487.4489375000007 
+            text = "mi_pae_ke" 
+        intervals [442]:
+            xmin = 487.4489375000007 
+            xmax = 488.5299791666674 
+            text = "mi_yu_ke" 
+        intervals [443]:
+            xmin = 488.5299791666674 
+            xmax = 489.5958750000007 
+            text = "mi_pae_ke" 
+        intervals [444]:
+            xmin = 489.5958750000007 
+            xmax = 490.68004166666736 
+            text = "mi_nga_ke" 
+        intervals [445]:
+            xmin = 490.68004166666736 
+            xmax = 491.7887500000007 
+            text = "to_pae_wae" 
+        intervals [446]:
+            xmin = 491.7887500000007 
+            xmax = 492.91572916666735 
+            text = "to_nga_wae" 
+        intervals [447]:
+            xmin = 492.91572916666735 
+            xmax = 494.038833333334 
+            text = "nu_yu_da" 
+        intervals [448]:
+            xmin = 494.038833333334 
+            xmax = 495.1626875000007 
+            text = "to_yu_wae" 
+        intervals [449]:
+            xmin = 495.1626875000007 
+            xmax = 496.270645833334 
+            text = "nu_pae_da" 
+        intervals [450]:
+            xmin = 496.270645833334 
+            xmax = 497.3968750000007 
+            text = "nu_nga_da" 
+        intervals [451]:
+            xmin = 497.3968750000007 
+            xmax = 498.5238541666674 
+            text = "to_nga_wae" 
+        intervals [452]:
+            xmin = 498.5238541666674 
+            xmax = 499.64770833333404 
+            text = "to_yu_wae" 
+        intervals [453]:
+            xmin = 499.64770833333404 
+            xmax = 500.7739375000007 
+            text = "nu_nga_da" 
+        intervals [454]:
+            xmin = 500.7739375000007 
+            xmax = 501.88189583333406 
+            text = "nu_pae_da" 
+        intervals [455]:
+            xmin = 501.88189583333406 
+            xmax = 502.96293750000075 
+            text = "mi_yu_ke" 
+        intervals [456]:
+            xmin = 502.96293750000075 
+            xmax = 504.07164583333406 
+            text = "to_pae_wae" 
+        intervals [457]:
+            xmin = 504.07164583333406 
+            xmax = 505.1558125000007 
+            text = "mi_nga_ke" 
+        intervals [458]:
+            xmin = 505.1558125000007 
+            xmax = 506.2789166666674 
+            text = "nu_yu_da" 
+        intervals [459]:
+            xmin = 506.2789166666674 
+            xmax = 507.3448125000007 
+            text = "mi_pae_ke" 
+        intervals [460]:
+            xmin = 507.3448125000007 
+            xmax = 508.4710416666674 
+            text = "nu_nga_da" 
+        intervals [461]:
+            xmin = 508.4710416666674 
+            xmax = 509.57975000000073 
+            text = "to_pae_wae" 
+        intervals [462]:
+            xmin = 509.57975000000073 
+            xmax = 510.6607916666674 
+            text = "mi_yu_ke" 
+        intervals [463]:
+            xmin = 510.6607916666674 
+            xmax = 511.7838958333341 
+            text = "nu_yu_da" 
+        intervals [464]:
+            xmin = 511.7838958333341 
+            xmax = 512.8918541666675 
+            text = "nu_pae_da" 
+        intervals [465]:
+            xmin = 512.8918541666675 
+            xmax = 514.0188333333341 
+            text = "to_nga_wae" 
+        intervals [466]:
+            xmin = 514.0188333333341 
+            xmax = 515.0847291666674 
+            text = "mi_pae_ke" 
+        intervals [467]:
+            xmin = 515.0847291666674 
+            xmax = 516.1688958333341 
+            text = "mi_nga_ke" 
+        intervals [468]:
+            xmin = 516.1688958333341 
+            xmax = 517.2927500000008 
+            text = "to_yu_wae" 
+        intervals [469]:
+            xmin = 517.2927500000008 
+            xmax = 518.3769166666674 
+            text = "mi_nga_ke" 
+        intervals [470]:
+            xmin = 518.3769166666674 
+            xmax = 519.4428125000007 
+            text = "mi_pae_ke" 
+        intervals [471]:
+            xmin = 519.4428125000007 
+            xmax = 520.5690416666674 
+            text = "nu_nga_da" 
+        intervals [472]:
+            xmin = 520.5690416666674 
+            xmax = 521.696020833334 
+            text = "to_nga_wae" 
+        intervals [473]:
+            xmin = 521.696020833334 
+            xmax = 522.7770625000007 
+            text = "mi_yu_ke" 
+        intervals [474]:
+            xmin = 522.7770625000007 
+            xmax = 523.8850208333341 
+            text = "nu_pae_da" 
+        intervals [475]:
+            xmin = 523.8850208333341 
+            xmax = 525.0081250000007 
+            text = "nu_yu_da" 
+        intervals [476]:
+            xmin = 525.0081250000007 
+            xmax = 526.1168333333341 
+            text = "to_pae_wae" 
+        intervals [477]:
+            xmin = 526.1168333333341 
+            xmax = 527.2406875000007 
+            text = "to_yu_wae" 
+        intervals [478]:
+            xmin = 527.2406875000007 
+            xmax = 528.3669166666674 
+            text = "nu_nga_da" 
+        intervals [479]:
+            xmin = 528.3669166666674 
+            xmax = 529.493895833334 
+            text = "to_nga_wae" 
+        intervals [480]:
+            xmin = 529.493895833334 
+            xmax = 530.5597916666674 
+            text = "mi_pae_ke" 
+        intervals [481]:
+            xmin = 530.5597916666674 
+            xmax = 531.6677500000008 
+            text = "nu_pae_da" 
+        intervals [482]:
+            xmin = 531.6677500000008 
+            xmax = 532.7908541666674 
+            text = "nu_yu_da" 
+        intervals [483]:
+            xmin = 532.7908541666674 
+            xmax = 533.875020833334 
+            text = "mi_nga_ke" 
+        intervals [484]:
+            xmin = 533.875020833334 
+            xmax = 534.9560625000007 
+            text = "mi_yu_ke" 
+        intervals [485]:
+            xmin = 534.9560625000007 
+            xmax = 536.064770833334 
+            text = "to_pae_wae" 
+        intervals [486]:
+            xmin = 536.064770833334 
+            xmax = 537.1886250000007 
+            text = "to_yu_wae" 
+        intervals [487]:
+            xmin = 537.1886250000007 
+            xmax = 538.2965833333341 
+            text = "nu_pae_da" 
+        intervals [488]:
+            xmin = 538.2965833333341 
+            xmax = 539.4204375000007 
+            text = "to_yu_wae" 
+        intervals [489]:
+            xmin = 539.4204375000007 
+            xmax = 540.5474166666673 
+            text = "to_nga_wae" 
+        intervals [490]:
+            xmin = 540.5474166666673 
+            xmax = 541.673645833334 
+            text = "nu_nga_da" 
+        intervals [491]:
+            xmin = 541.673645833334 
+            xmax = 542.7578125000007 
+            text = "mi_nga_ke" 
+        intervals [492]:
+            xmin = 542.7578125000007 
+            xmax = 543.8388541666674 
+            text = "mi_yu_ke" 
+        intervals [493]:
+            xmin = 543.8388541666674 
+            xmax = 544.961958333334 
+            text = "nu_yu_da" 
+        intervals [494]:
+            xmin = 544.961958333334 
+            xmax = 546.0706666666673 
+            text = "to_pae_wae" 
+        intervals [495]:
+            xmin = 546.0706666666673 
+            xmax = 547.1365625000007 
+            text = "mi_pae_ke" 
+        intervals [496]:
+            xmin = 547.1365625000007 
+            xmax = 548.244520833334 
+            text = "nu_pae_da" 
+        intervals [497]:
+            xmin = 548.244520833334 
+            xmax = 549.3715000000007 
+            text = "to_nga_wae" 
+        intervals [498]:
+            xmin = 549.3715000000007 
+            xmax = 550.4977291666673 
+            text = "nu_nga_da" 
+        intervals [499]:
+            xmin = 550.4977291666673 
+            xmax = 551.581895833334 
+            text = "mi_nga_ke" 
+        intervals [500]:
+            xmin = 551.581895833334 
+            xmax = 552.6477916666673 
+            text = "mi_pae_ke" 
+        intervals [501]:
+            xmin = 552.6477916666673 
+            xmax = 553.7565000000006 
+            text = "to_pae_wae" 
+        intervals [502]:
+            xmin = 553.7565000000006 
+            xmax = 554.8796041666673 
+            text = "nu_yu_da" 
+        intervals [503]:
+            xmin = 554.8796041666673 
+            xmax = 555.960645833334 
+            text = "mi_yu_ke" 
+        intervals [504]:
+            xmin = 555.960645833334 
+            xmax = 557.0845000000006 
+            text = "to_yu_wae" 
+        intervals [505]:
+            xmin = 557.0845000000006 
+            xmax = 558.2076041666672 
+            text = "nu_yu_da" 
+        intervals [506]:
+            xmin = 558.2076041666672 
+            xmax = 559.2917708333339 
+            text = "mi_nga_ke" 
+        intervals [507]:
+            xmin = 559.2917708333339 
+            xmax = 560.3997291666673 
+            text = "nu_pae_da" 
+        intervals [508]:
+            xmin = 560.3997291666673 
+            xmax = 561.525958333334 
+            text = "nu_nga_da" 
+        intervals [509]:
+            xmin = 561.525958333334 
+            xmax = 562.6529375000006 
+            text = "to_nga_wae" 
+        intervals [510]:
+            xmin = 562.6529375000006 
+            xmax = 563.7616458333339 
+            text = "to_pae_wae" 
+        intervals [511]:
+            xmin = 563.7616458333339 
+            xmax = 564.8275416666672 
+            text = "mi_pae_ke" 
+        intervals [512]:
+            xmin = 564.8275416666672 
+            xmax = 565.9085833333339 
+            text = "mi_yu_ke" 
+        intervals [513]:
+            xmin = 565.9085833333339 
+            xmax = 567.0324375000006 
+            text = "to_yu_wae" 
+        intervals [514]:
+            xmin = 567.0324375000006 
+            xmax = 568.1555416666672 
+            text = "nu_yu_da" 
+        intervals [515]:
+            xmin = 568.1555416666672 
+            xmax = 569.2825208333338 
+            text = "to_nga_wae" 
+        intervals [516]:
+            xmin = 569.2825208333338 
+            xmax = 570.3484166666672 
+            text = "mi_pae_ke" 
+        intervals [517]:
+            xmin = 570.3484166666672 
+            xmax = 571.4563750000005 
+            text = "nu_pae_da" 
+        intervals [518]:
+            xmin = 571.4563750000005 
+            xmax = 572.5405416666672 
+            text = "mi_nga_ke" 
+        intervals [519]:
+            xmin = 572.5405416666672 
+            xmax = 573.6492500000005 
+            text = "to_pae_wae" 
+        intervals [520]:
+            xmin = 573.6492500000005 
+            xmax = 574.7754791666672 
+            text = "nu_nga_da" 
+        intervals [521]:
+            xmin = 574.7754791666672 
+            xmax = 575.8565208333339 
+            text = "mi_yu_ke" 
+        intervals [522]:
+            xmin = 575.8565208333339 
+            xmax = 576.9803750000005 
+            text = "to_yu_wae" 
+        intervals [523]:
+            xmin = 576.9803750000005 
+            xmax = 578.1066041666672 
+            text = "nu_nga_da" 
+        intervals [524]:
+            xmin = 578.1066041666672 
+            xmax = 579.2335833333339 
+            text = "to_nga_wae" 
+        intervals [525]:
+            xmin = 579.2335833333339 
+            xmax = 580.3574375000005 
+            text = "to_yu_wae" 
+        intervals [526]:
+            xmin = 580.3574375000005 
+            xmax = 581.4233333333339 
+            text = "mi_pae_ke" 
+        intervals [527]:
+            xmin = 581.4233333333339 
+            xmax = 582.5320416666672 
+            text = "to_pae_wae" 
+        intervals [528]:
+            xmin = 582.5320416666672 
+            xmax = 583.6130833333339 
+            text = "mi_yu_ke" 
+        intervals [529]:
+            xmin = 583.6130833333339 
+            xmax = 584.7210416666672 
+            text = "nu_pae_da" 
+        intervals [530]:
+            xmin = 584.7210416666672 
+            xmax = 585.8441458333339 
+            text = "nu_yu_da" 
+        intervals [531]:
+            xmin = 585.8441458333339 
+            xmax = 586.9283125000005 
+            text = "mi_nga_ke" 
+        intervals [532]:
+            xmin = 586.9283125000005 
+            xmax = 588.0552916666671 
+            text = "to_nga_wae" 
+        intervals [533]:
+            xmin = 588.0552916666671 
+            xmax = 589.1783958333338 
+            text = "nu_yu_da" 
+        intervals [534]:
+            xmin = 589.1783958333338 
+            xmax = 590.2442916666671 
+            text = "mi_pae_ke" 
+        intervals [535]:
+            xmin = 590.2442916666671 
+            xmax = 591.3522500000005 
+            text = "nu_pae_da" 
+        intervals [536]:
+            xmin = 591.3522500000005 
+            xmax = 592.4364166666671 
+            text = "mi_nga_ke" 
+        intervals [537]:
+            xmin = 592.4364166666671 
+            xmax = 593.5602708333338 
+            text = "to_yu_wae" 
+        intervals [538]:
+            xmin = 593.5602708333338 
+            xmax = 594.6689791666671 
+            text = "to_pae_wae" 
+        intervals [539]:
+            xmin = 594.6689791666671 
+            xmax = 595.7500208333338 
+            text = "mi_yu_ke" 
+        intervals [540]:
+            xmin = 595.7500208333338 
+            xmax = 596.8762500000005 
+            text = "nu_nga_da" 
+        intervals [541]:
+            xmin = 596.8762500000005 
+            xmax = 597.9993541666671 
+            text = "nu_yu_da" 
+        intervals [542]:
+            xmin = 597.9993541666671 
+            xmax = 599.1255833333338 
+            text = "nu_nga_da" 
+        intervals [543]:
+            xmin = 599.1255833333338 
+            xmax = 600.1914791666671 
+            text = "mi_pae_ke" 
+        intervals [544]:
+            xmin = 600.1914791666671 
+            xmax = 601.2756458333338 
+            text = "mi_nga_ke" 
+        intervals [545]:
+            xmin = 601.2756458333338 
+            xmax = 602.3995000000004 
+            text = "to_yu_wae" 
+        intervals [546]:
+            xmin = 602.3995000000004 
+            xmax = 603.5264791666671 
+            text = "to_nga_wae" 
+        intervals [547]:
+            xmin = 603.5264791666671 
+            xmax = 604.6351875000004 
+            text = "to_pae_wae" 
+        intervals [548]:
+            xmin = 604.6351875000004 
+            xmax = 605.7162291666671 
+            text = "mi_yu_ke" 
+        intervals [549]:
+            xmin = 605.7162291666671 
+            xmax = 606.8241875000004 
+            text = "nu_pae_da" 
+        intervals [550]:
+            xmin = 606.8241875000004 
+            xmax = 607.9052291666671 
+            text = "mi_yu_ke" 
+        intervals [551]:
+            xmin = 607.9052291666671 
+            xmax = 609.0314583333338 
+            text = "nu_nga_da" 
+        intervals [552]:
+            xmin = 609.0314583333338 
+            xmax = 610.1584375000004 
+            text = "to_nga_wae" 
+        intervals [553]:
+            xmin = 610.1584375000004 
+            xmax = 611.2426041666671 
+            text = "mi_nga_ke" 
+        intervals [554]:
+            xmin = 611.2426041666671 
+            xmax = 612.3657083333337 
+            text = "nu_yu_da" 
+        intervals [555]:
+            xmin = 612.3657083333337 
+            xmax = 613.4316041666671 
+            text = "mi_pae_ke" 
+        intervals [556]:
+            xmin = 613.4316041666671 
+            xmax = 614.5403125000004 
+            text = "to_pae_wae" 
+        intervals [557]:
+            xmin = 614.5403125000004 
+            xmax = 615.6482708333338 
+            text = "nu_pae_da" 
+        intervals [558]:
+            xmin = 615.6482708333338 
+            xmax = 616.7721250000004 
+            text = "to_yu_wae" 
+        intervals [559]:
+            xmin = 616.7721250000004 
+            xmax = 617.8531666666671 
+            text = "mi_yu_ke" 
+        intervals [560]:
+            xmin = 617.8531666666671 
+            xmax = 618.9190625000005 
+            text = "mi_pae_ke" 
+        intervals [561]:
+            xmin = 618.9190625000005 
+            xmax = 620.0452916666671 
+            text = "nu_nga_da" 
+        intervals [562]:
+            xmin = 620.0452916666671 
+            xmax = 621.1532500000005 
+            text = "nu_pae_da" 
+        intervals [563]:
+            xmin = 621.1532500000005 
+            xmax = 622.2763541666671 
+            text = "nu_yu_da" 
+        intervals [564]:
+            xmin = 622.2763541666671 
+            xmax = 623.4033333333338 
+            text = "to_nga_wae" 
+        intervals [565]:
+            xmin = 623.4033333333338 
+            xmax = 624.5120416666671 
+            text = "to_pae_wae" 
+        intervals [566]:
+            xmin = 624.5120416666671 
+            xmax = 625.5962083333337 
+            text = "mi_nga_ke" 
+        intervals [567]:
+            xmin = 625.5962083333337 
+            xmax = 626.7200625000004 
+            text = "to_yu_wae" 
+        intervals [568]:
+            xmin = 626.7200625000004 
+            xmax = 627.8011041666671 
+            text = "mi_yu_ke" 
+        intervals [569]:
+            xmin = 627.8011041666671 
+            xmax = 628.8852708333337 
+            text = "mi_nga_ke" 
+        intervals [570]:
+            xmin = 628.8852708333337 
+            xmax = 630.0083750000003 
+            text = "nu_yu_da" 
+        intervals [571]:
+            xmin = 630.0083750000003 
+            xmax = 631.134604166667 
+            text = "nu_nga_da" 
+        intervals [572]:
+            xmin = 631.134604166667 
+            xmax = 632.2584583333337 
+            text = "to_yu_wae" 
+        intervals [573]:
+            xmin = 632.2584583333337 
+            xmax = 633.324354166667 
+            text = "mi_pae_ke" 
+        intervals [574]:
+            xmin = 633.324354166667 
+            xmax = 634.4513333333337 
+            text = "to_nga_wae" 
+        intervals [575]:
+            xmin = 634.4513333333337 
+            xmax = 635.560041666667 
+            text = "to_pae_wae" 
+        intervals [576]:
+            xmin = 635.560041666667 
+            xmax = 636.6680000000003 
+            text = "nu_pae_da" 
+        intervals [577]:
+            xmin = 636.6680000000003 
+            xmax = 637.791104166667 
+            text = "nu_yu_da" 
+        intervals [578]:
+            xmin = 637.791104166667 
+            xmax = 638.8570000000003 
+            text = "mi_pae_ke" 
+        intervals [579]:
+            xmin = 638.8570000000003 
+            xmax = 639.983229166667 
+            text = "nu_nga_da" 
+        intervals [580]:
+            xmin = 639.983229166667 
+            xmax = 641.0919375000003 
+            text = "to_pae_wae" 
+        intervals [581]:
+            xmin = 641.0919375000003 
+            xmax = 642.172979166667 
+            text = "mi_yu_ke" 
+        intervals [582]:
+            xmin = 642.172979166667 
+            xmax = 643.2999583333336 
+            text = "to_nga_wae" 
+        intervals [583]:
+            xmin = 643.2999583333336 
+            xmax = 644.3841250000003 
+            text = "mi_nga_ke" 
+        intervals [584]:
+            xmin = 644.3841250000003 
+            xmax = 645.4920833333337 
+            text = "nu_pae_da" 
+        intervals [585]:
+            xmin = 645.4920833333337 
+            xmax = 646.6159375000003 
+            text = "to_yu_wae" 
+        intervals [586]:
+            xmin = 646.6159375000003 
+            xmax = 647.7246458333336 
+            text = "to_pae_wae" 
+        intervals [587]:
+            xmin = 647.7246458333336 
+            xmax = 648.8088125000003 
+            text = "mi_nga_ke" 
+        intervals [588]:
+            xmin = 648.8088125000003 
+            xmax = 649.935041666667 
+            text = "nu_nga_da" 
+        intervals [589]:
+            xmin = 649.935041666667 
+            xmax = 651.0620208333336 
+            text = "to_nga_wae" 
+        intervals [590]:
+            xmin = 651.0620208333336 
+            xmax = 652.169979166667 
+            text = "nu_pae_da" 
+        intervals [591]:
+            xmin = 652.169979166667 
+            xmax = 653.2358750000003 
+            text = "mi_pae_ke" 
+        intervals [592]:
+            xmin = 653.2358750000003 
+            xmax = 654.359729166667 
+            text = "to_yu_wae" 
+        intervals [593]:
+            xmin = 654.359729166667 
+            xmax = 655.4407708333337 
+            text = "mi_yu_ke" 
+        intervals [594]:
+            xmin = 655.4407708333337 
+            xmax = 656.5638750000003 
+            text = "nu_yu_da" 
+        intervals [595]:
+            xmin = 656.5638750000003 
+            xmax = 657.6877291666669 
+            text = "to_yu_wae" 
+        intervals [596]:
+            xmin = 657.6877291666669 
+            xmax = 658.7536250000003 
+            text = "mi_pae_ke" 
+        intervals [597]:
+            xmin = 658.7536250000003 
+            xmax = 659.834666666667 
+            text = "mi_yu_ke" 
+        intervals [598]:
+            xmin = 659.834666666667 
+            xmax = 660.9426250000004 
+            text = "nu_pae_da" 
+        intervals [599]:
+            xmin = 660.9426250000004 
+            xmax = 662.069604166667 
+            text = "to_nga_wae" 
+        intervals [600]:
+            xmin = 662.069604166667 
+            xmax = 663.1958333333337 
+            text = "nu_nga_da" 
+        intervals [601]:
+            xmin = 663.1958333333337 
+            xmax = 664.3189375000003 
+            text = "nu_yu_da" 
+        intervals [602]:
+            xmin = 664.3189375000003 
+            xmax = 665.4276458333336 
+            text = "to_pae_wae" 
+        intervals [603]:
+            xmin = 665.4276458333336 
+            xmax = 666.5118125000002 
+            text = "mi_nga_ke" 
+        intervals [604]:
+            xmin = 666.5118125000002 
+            xmax = 667.6387916666669 
+            text = "to_nga_wae" 
+        intervals [605]:
+            xmin = 667.6387916666669 
+            xmax = 668.7198333333336 
+            text = "mi_yu_ke" 
+        intervals [606]:
+            xmin = 668.7198333333336 
+            xmax = 669.8040000000002 
+            text = "mi_nga_ke" 
+        intervals [607]:
+            xmin = 669.8040000000002 
+            xmax = 670.8698958333335 
+            text = "mi_pae_ke" 
+        intervals [608]:
+            xmin = 670.8698958333335 
+            xmax = 671.9961250000002 
+            text = "nu_nga_da" 
+        intervals [609]:
+            xmin = 671.9961250000002 
+            xmax = 673.1048333333335 
+            text = "to_pae_wae" 
+        intervals [610]:
+            xmin = 673.1048333333335 
+            xmax = 674.2279375000002 
+            text = "nu_yu_da" 
+        intervals [611]:
+            xmin = 674.2279375000002 
+            xmax = 675.3358958333336 
+            text = "nu_pae_da" 
+        intervals [612]:
+            xmin = 675.3358958333336 
+            xmax = 676.4597500000002 
+            text = "to_yu_wae" 
+        intervals [613]:
+            xmin = 676.4597500000002 
+            xmax = 677.5407916666669 
+            text = "mi_yu_ke" 
+        intervals [614]:
+            xmin = 677.5407916666669 
+            xmax = 678.6487500000003 
+            text = "nu_pae_da" 
+        intervals [615]:
+            xmin = 678.6487500000003 
+            xmax = 679.7718541666669 
+            text = "nu_yu_da" 
+        intervals [616]:
+            xmin = 679.7718541666669 
+            xmax = 680.8377500000003 
+            text = "mi_pae_ke" 
+        intervals [617]:
+            xmin = 680.8377500000003 
+            xmax = 681.9219166666669 
+            text = "mi_nga_ke" 
+        intervals [618]:
+            xmin = 681.9219166666669 
+            xmax = 683.0481458333336 
+            text = "nu_nga_da" 
+        intervals [619]:
+            xmin = 683.0481458333336 
+            xmax = 684.1751250000002 
+            text = "to_nga_wae" 
+        intervals [620]:
+            xmin = 684.1751250000002 
+            xmax = 685.2838333333335 
+            text = "to_pae_wae" 
+        intervals [621]:
+            xmin = 685.2838333333335 
+            xmax = 686.4076875000002 
+            text = "to_yu_wae" 
+        intervals [622]:
+            xmin = 686.4076875000002 
+            xmax = 687.5339166666669 
+            text = "nu_nga_da" 
+        intervals [623]:
+            xmin = 687.5339166666669 
+            xmax = 688.6570208333335 
+            text = "nu_yu_da" 
+        intervals [624]:
+            xmin = 688.6570208333335 
+            xmax = 689.7657291666668 
+            text = "to_pae_wae" 
+        intervals [625]:
+            xmin = 689.7657291666668 
+            xmax = 690.8498958333334 
+            text = "mi_nga_ke" 
+        intervals [626]:
+            xmin = 690.8498958333334 
+            xmax = 691.9309375000001 
+            text = "mi_yu_ke" 
+        intervals [627]:
+            xmin = 691.9309375000001 
+            xmax = 692.9968333333335 
+            text = "mi_pae_ke" 
+        intervals [628]:
+            xmin = 692.9968333333335 
+            xmax = 694.1238125000001 
+            text = "to_nga_wae" 
+        intervals [629]:
+            xmin = 694.1238125000001 
+            xmax = 695.2317708333335 
+            text = "nu_pae_da" 
+        intervals [630]:
+            xmin = 695.2317708333335 
+            xmax = 696.3556250000001 
+            text = "to_yu_wae" 
+        intervals [631]:
+            xmin = 696.3556250000001 
+            xmax = 697.4818541666668 
+            text = "nu_nga_da" 
+        intervals [632]:
+            xmin = 697.4818541666668 
+            xmax = 698.5905625000001 
+            text = "to_pae_wae" 
+        intervals [633]:
+            xmin = 698.5905625000001 
+            xmax = 699.6564583333335 
+            text = "mi_pae_ke" 
+        intervals [634]:
+            xmin = 699.6564583333335 
+            xmax = 700.7795625000001 
+            text = "nu_yu_da" 
+        intervals [635]:
+            xmin = 700.7795625000001 
+            xmax = 701.9034166666668 
+            text = "to_yu_wae" 
+        intervals [636]:
+            xmin = 701.9034166666668 
+            xmax = 702.9844583333335 
+            text = "mi_yu_ke" 
+        intervals [637]:
+            xmin = 702.9844583333335 
+            xmax = 704.0686250000001 
+            text = "mi_nga_ke" 
+        intervals [638]:
+            xmin = 704.0686250000001 
+            xmax = 705.1956041666667 
+            text = "to_nga_wae" 
+        intervals [639]:
+            xmin = 705.1956041666667 
+            xmax = 706.3035625000001 
+            text = "nu_pae_da" 
+        intervals [640]:
+            xmin = 706.3035625000001 
+            xmax = 707.4122708333334 
+            text = "to_pae_wae" 
+        intervals [641]:
+            xmin = 707.4122708333334 
+            xmax = 708.4933125000001 
+            text = "mi_yu_ke" 
+        intervals [642]:
+            xmin = 708.4933125000001 
+            xmax = 709.6164166666667 
+            text = "nu_yu_da" 
+        intervals [643]:
+            xmin = 709.6164166666667 
+            xmax = 710.7433958333334 
+            text = "to_nga_wae" 
+        intervals [644]:
+            xmin = 710.7433958333334 
+            xmax = 711.8092916666667 
+            text = "mi_pae_ke" 
+        intervals [645]:
+            xmin = 711.8092916666667 
+            xmax = 712.9355208333334 
+            text = "nu_nga_da" 
+        intervals [646]:
+            xmin = 712.9355208333334 
+            xmax = 714.0434791666668 
+            text = "nu_pae_da" 
+        intervals [647]:
+            xmin = 714.0434791666668 
+            xmax = 715.1276458333334 
+            text = "mi_nga_ke" 
+        intervals [648]:
+            xmin = 715.1276458333334 
+            xmax = 716.2515000000001 
+            text = "to_yu_wae" 
+        intervals [649]:
+            xmin = 716.2515000000001 
+            xmax = 717.3325416666668 
+            text = "mi_yu_ke" 
+        intervals [650]:
+            xmin = 717.3325416666668 
+            xmax = 718.4595208333334 
+            text = "to_nga_wae" 
+        intervals [651]:
+            xmin = 718.4595208333334 
+            xmax = 719.5682291666667 
+            text = "to_pae_wae" 
+        intervals [652]:
+            xmin = 719.5682291666667 
+            xmax = 720.6944583333334 
+            text = "nu_nga_da" 
+        intervals [653]:
+            xmin = 720.6944583333334 
+            xmax = 721.8024166666668 
+            text = "nu_pae_da" 
+        intervals [654]:
+            xmin = 721.8024166666668 
+            xmax = 722.9255208333334 
+            text = "nu_yu_da" 
+        intervals [655]:
+            xmin = 722.9255208333334 
+            xmax = 724.0096875 
+            text = "mi_nga_ke" 
+        intervals [656]:
+            xmin = 724.0096875 
+            xmax = 725.0755833333334 
+            text = "mi_pae_ke" 
+        intervals [657]:
+            xmin = 725.0755833333334 
+            xmax = 726.1994375 
+            text = "to_yu_wae" 
+        intervals [658]:
+            xmin = 726.1994375 
+            xmax = 727.3081458333334 
+            text = "to_pae_wae" 
+        intervals [659]:
+            xmin = 727.3081458333334 
+            xmax = 728.3740416666667 
+            text = "mi_pae_ke" 
+        intervals [660]:
+            xmin = 728.3740416666667 
+            xmax = 729.4582083333333 
+            text = "mi_nga_ke" 
+        intervals [661]:
+            xmin = 729.4582083333333 
+            xmax = 730.5820625 
+            text = "to_yu_wae" 
+        intervals [662]:
+            xmin = 730.5820625 
+            xmax = 731.7090416666666 
+            text = "to_nga_wae" 
+        intervals [663]:
+            xmin = 731.7090416666666 
+            xmax = 732.8321458333332 
+            text = "nu_yu_da" 
+        intervals [664]:
+            xmin = 732.8321458333332 
+            xmax = 733.9583749999999 
+            text = "nu_nga_da" 
+        intervals [665]:
+            xmin = 733.9583749999999 
+            xmax = 735.0663333333333 
+            text = "nu_pae_da" 
+        intervals [666]:
+            xmin = 735.0663333333333 
+            xmax = 736.147375 
+            text = "mi_yu_ke" 
+        intervals [667]:
+            xmin = 736.147375 
+            xmax = 737.2315416666667 
+            text = "mi_nga_ke" 
+        intervals [668]:
+            xmin = 737.2315416666667 
+            xmax = 738.3553958333333 
+            text = "to_yu_wae" 
+        intervals [669]:
+            xmin = 738.3553958333333 
+            xmax = 739.4823749999999 
+            text = "to_nga_wae" 
+        intervals [670]:
+            xmin = 739.4823749999999 
+            xmax = 740.6086041666666 
+            text = "nu_nga_da" 
+        intervals [671]:
+            xmin = 740.6086041666666 
+            xmax = 741.7317083333332 
+            text = "nu_yu_da" 
+        intervals [672]:
+            xmin = 741.7317083333332 
+            xmax = 742.8396666666666 
+            text = "nu_pae_da" 
+        intervals [673]:
+            xmin = 742.8396666666666 
+            xmax = 743.9207083333333 
+            text = "mi_yu_ke" 
+        intervals [674]:
+            xmin = 743.9207083333333 
+            xmax = 744.9866041666667 
+            text = "mi_pae_ke" 
+        intervals [675]:
+            xmin = 744.9866041666667 
+            xmax = 746.0953125 
+            text = "to_pae_wae" 
+        intervals [676]:
+            xmin = 746.0953125 
+            xmax = 747.2222916666666 
+            text = "to_nga_wae" 
+        intervals [677]:
+            xmin = 747.2222916666666 
+            xmax = 748.3064583333332 
+            text = "mi_nga_ke" 
+        intervals [678]:
+            xmin = 748.3064583333332 
+            xmax = 749.4295624999999 
+            text = "nu_yu_da" 
+        intervals [679]:
+            xmin = 749.4295624999999 
+            xmax = 750.5382708333332 
+            text = "to_pae_wae" 
+        intervals [680]:
+            xmin = 750.5382708333332 
+            xmax = 751.6644999999999 
+            text = "nu_nga_da" 
+        intervals [681]:
+            xmin = 751.6644999999999 
+            xmax = 752.7455416666666 
+            text = "mi_yu_ke" 
+        intervals [682]:
+            xmin = 752.7455416666666 
+            xmax = 753.8114374999999 
+            text = "mi_pae_ke" 
+        intervals [683]:
+            xmin = 753.8114374999999 
+            xmax = 754.9193958333333 
+            text = "nu_pae_da" 
+        intervals [684]:
+            xmin = 754.9193958333333 
+            xmax = 756.04325 
+            text = "to_yu_wae" 
+        intervals [685]:
+            xmin = 756.04325 
+            xmax = 757.1694791666666 
+            text = "nu_nga_da" 
+        intervals [686]:
+            xmin = 757.1694791666666 
+            xmax = 758.2505208333333 
+            text = "mi_yu_ke" 
+        intervals [687]:
+            xmin = 758.2505208333333 
+            xmax = 759.3164166666667 
+            text = "mi_pae_ke" 
+        intervals [688]:
+            xmin = 759.3164166666667 
+            xmax = 760.4433958333333 
+            text = "to_nga_wae" 
+        intervals [689]:
+            xmin = 760.4433958333333 
+            xmax = 761.5521041666666 
+            text = "to_pae_wae" 
+        intervals [690]:
+            xmin = 761.5521041666666 
+            xmax = 762.6362708333332 
+            text = "mi_nga_ke" 
+        intervals [691]:
+            xmin = 762.6362708333332 
+            xmax = 763.7442291666666 
+            text = "nu_pae_da" 
+        intervals [692]:
+            xmin = 763.7442291666666 
+            xmax = 764.8673333333332 
+            text = "nu_yu_da" 
+        intervals [693]:
+            xmin = 764.8673333333332 
+            xmax = 765.9911874999999 
+            text = "to_yu_wae" 
+        intervals [694]:
+            xmin = 765.9911874999999 
+            xmax = 767.0991458333333 
+            text = "nu_pae_da" 
+        intervals [695]:
+            xmin = 767.0991458333333 
+            xmax = 768.2222499999999 
+            text = "nu_yu_da" 
+        intervals [696]:
+            xmin = 768.2222499999999 
+            xmax = 769.3064166666666 
+            text = "mi_nga_ke" 
+        intervals [697]:
+            xmin = 769.3064166666666 
+            xmax = 770.4333958333332 
+            text = "to_nga_wae" 
+        intervals [698]:
+            xmin = 770.4333958333332 
+            xmax = 771.5421041666665 
+            text = "to_pae_wae" 
+        intervals [699]:
+            xmin = 771.5421041666665 
+            xmax = 772.6683333333332 
+            text = "nu_nga_da" 
+        intervals [700]:
+            xmin = 772.6683333333332 
+            xmax = 773.7342291666665 
+            text = "mi_pae_ke" 
+        intervals [701]:
+            xmin = 773.7342291666665 
+            xmax = 774.8152708333332 
+            text = "mi_yu_ke" 
+        intervals [702]:
+            xmin = 774.8152708333332 
+            xmax = 775.9391249999999 
+            text = "to_yu_wae" 
+        intervals [703]:
+            xmin = 775.9391249999999 
+            xmax = 777.0050208333332 
+            text = "mi_pae_ke" 
+        intervals [704]:
+            xmin = 777.0050208333332 
+            xmax = 778.0891874999999 
+            text = "mi_nga_ke" 
+        intervals [705]:
+            xmin = 778.0891874999999 
+            xmax = 779.2122916666665 
+            text = "nu_yu_da" 
+        intervals [706]:
+            xmin = 779.2122916666665 
+            xmax = 780.2933333333332 
+            text = "mi_yu_ke" 
+        intervals [707]:
+            xmin = 780.2933333333332 
+            xmax = 781.4020416666665 
+            text = "to_pae_wae" 
+        intervals [708]:
+            xmin = 781.4020416666665 
+            xmax = 782.5290208333331 
+            text = "to_nga_wae" 
+        intervals [709]:
+            xmin = 782.5290208333331 
+            xmax = 783.6528749999998 
+            text = "to_yu_wae" 
+        intervals [710]:
+            xmin = 783.6528749999998 
+            xmax = 784.7608333333332 
+            text = "nu_pae_da" 
+        intervals [711]:
+            xmin = 784.7608333333332 
+            xmax = 785.8870624999998 
+            text = "nu_nga_da" 
+        intervals [712]:
+            xmin = 785.8870624999998 
+            xmax = 786.9681041666665 
+            text = "mi_yu_ke" 
+        intervals [713]:
+            xmin = 786.9681041666665 
+            xmax = 788.0943333333332 
+            text = "nu_nga_da" 
+        intervals [714]:
+            xmin = 788.0943333333332 
+            xmax = 789.2022916666666 
+            text = "nu_pae_da" 
+        intervals [715]:
+            xmin = 789.2022916666666 
+            xmax = 790.2864583333333 
+            text = "mi_nga_ke" 
+        intervals [716]:
+            xmin = 790.2864583333333 
+            xmax = 791.4095624999999 
+            text = "nu_yu_da" 
+        intervals [717]:
+            xmin = 791.4095624999999 
+            xmax = 792.4754583333332 
+            text = "mi_pae_ke" 
+        intervals [718]:
+            xmin = 792.4754583333332 
+            xmax = 793.5841666666665 
+            text = "to_pae_wae" 
+        intervals [719]:
+            xmin = 793.5841666666665 
+            xmax = 794.7111458333331 
+            text = "to_nga_wae" 
+        intervals [720]:
+            xmin = 794.7111458333331 
+            xmax = 795.8349999999998 
+            text = "to_yu_wae" 
+        intervals [721]:
+            xmin = 795.8349999999998 
+            xmax = 796.9191666666665 
+            text = "mi_nga_ke" 
+        intervals [722]:
+            xmin = 796.9191666666665 
+            xmax = 798.0278749999998 
+            text = "to_pae_wae" 
+        intervals [723]:
+            xmin = 798.0278749999998 
+            xmax = 799.1089166666665 
+            text = "mi_yu_ke" 
+        intervals [724]:
+            xmin = 799.1089166666665 
+            xmax = 800.2320208333331 
+            text = "nu_yu_da" 
+        intervals [725]:
+            xmin = 800.2320208333331 
+            xmax = 801.3399791666665 
+            text = "nu_pae_da" 
+        intervals [726]:
+            xmin = 801.3399791666665 
+            xmax = 802.4662083333332 
+            text = "nu_nga_da" 
+        intervals [727]:
+            xmin = 802.4662083333332 
+            xmax = 803.5931874999998 
+            text = "to_nga_wae" 
+        intervals [728]:
+            xmin = 803.5931874999998 
+            xmax = 804.6590833333331 
+            text = "mi_pae_ke" 
+        intervals [729]:
+            xmin = 804.6590833333331 
+            xmax = 805.7829374999998 
+            text = "to_yu_wae" 
+        intervals [730]:
+            xmin = 805.7829374999998 
+            xmax = 806.8488333333331 
+            text = "mi_pae_ke" 
+        intervals [731]:
+            xmin = 806.8488333333331 
+            xmax = 807.9329999999998 
+            text = "mi_nga_ke" 
+        intervals [732]:
+            xmin = 807.9329999999998 
+            xmax = 809.0140416666665 
+            text = "mi_yu_ke" 
+        intervals [733]:
+            xmin = 809.0140416666665 
+            xmax = 810.1219999999998 
+            text = "nu_pae_da" 
+        intervals [734]:
+            xmin = 810.1219999999998 
+            xmax = 811.2451041666665 
+            text = "nu_yu_da" 
+        intervals [735]:
+            xmin = 811.2451041666665 
+            xmax = 812.3538124999998 
+            text = "to_pae_wae" 
+        intervals [736]:
+            xmin = 812.3538124999998 
+            xmax = 813.4800416666665 
+            text = "nu_nga_da" 
+        intervals [737]:
+            xmin = 813.4800416666665 
+            xmax = 814.6070208333331 
+            text = "to_nga_wae" 
+        intervals [738]:
+            xmin = 814.6070208333331 
+            xmax = 815.7308749999997 
+            text = "to_yu_wae" 
+        intervals [739]:
+            xmin = 815.7308749999997 
+            xmax = 816.8539791666664 
+            text = "nu_yu_da" 
+        intervals [740]:
+            xmin = 816.8539791666664 
+            xmax = 817.935020833333 
+            text = "mi_yu_ke" 
+        intervals [741]:
+            xmin = 817.935020833333 
+            xmax = 819.0429791666664 
+            text = "nu_pae_da" 
+        intervals [742]:
+            xmin = 819.0429791666664 
+            xmax = 820.1516874999998 
+            text = "to_pae_wae" 
+        intervals [743]:
+            xmin = 820.1516874999998 
+            xmax = 821.2175833333331 
+            text = "mi_pae_ke" 
+        intervals [744]:
+            xmin = 821.2175833333331 
+            xmax = 822.3438124999998 
+            text = "nu_nga_da" 
+        intervals [745]:
+            xmin = 822.3438124999998 
+            xmax = 823.4707916666664 
+            text = "to_nga_wae" 
+        intervals [746]:
+            xmin = 823.4707916666664 
+            xmax = 824.554958333333 
+            text = "mi_nga_ke" 
+        intervals [747]:
+            xmin = 824.554958333333 
+            xmax = 825.6788124999997 
+            text = "to_yu_wae" 
+        intervals [748]:
+            xmin = 825.6788124999997 
+            xmax = 826.8050416666664 
+            text = "nu_nga_da" 
+        intervals [749]:
+            xmin = 826.8050416666664 
+            xmax = 827.9288958333331 
+            text = "to_yu_wae" 
+        intervals [750]:
+            xmin = 827.9288958333331 
+            xmax = 829.0130624999997 
+            text = "mi_nga_ke" 
+        intervals [751]:
+            xmin = 829.0130624999997 
+            xmax = 830.078958333333 
+            text = "mi_pae_ke" 
+        intervals [752]:
+            xmin = 830.078958333333 
+            xmax = 831.2020624999997 
+            text = "nu_yu_da" 
+        intervals [753]:
+            xmin = 831.2020624999997 
+            xmax = 832.2831041666664 
+            text = "mi_yu_ke" 
+        intervals [754]:
+            xmin = 832.2831041666664 
+            xmax = 833.3918124999997 
+            text = "to_pae_wae" 
+        intervals [755]:
+            xmin = 833.3918124999997 
+            xmax = 834.4997708333331 
+            text = "nu_pae_da" 
+        intervals [756]:
+            xmin = 834.4997708333331 
+            xmax = 835.6267499999997 
+            text = "to_nga_wae" 
+        intervals [757]:
+            xmin = 835.6267499999997 
+            xmax = 836.7109166666663 
+            text = "mi_nga_ke" 
+        intervals [758]:
+            xmin = 836.7109166666663 
+            xmax = 837.837145833333 
+            text = "nu_nga_da" 
+        intervals [759]:
+            xmin = 837.837145833333 
+            xmax = 838.9451041666664 
+            text = "nu_pae_da" 
+        intervals [760]:
+            xmin = 838.9451041666664 
+            xmax = 840.068208333333 
+            text = "nu_yu_da" 
+        intervals [761]:
+            xmin = 840.068208333333 
+            xmax = 841.1341041666664 
+            text = "mi_pae_ke" 
+        intervals [762]:
+            xmin = 841.1341041666664 
+            xmax = 842.261083333333 
+            text = "to_nga_wae" 
+        intervals [763]:
+            xmin = 842.261083333333 
+            xmax = 843.3849374999996 
+            text = "to_yu_wae" 
+        intervals [764]:
+            xmin = 843.3849374999996 
+            xmax = 844.4659791666663 
+            text = "mi_yu_ke" 
+        intervals [765]:
+            xmin = 844.4659791666663 
+            xmax = 845.5746874999996 
+            text = "to_pae_wae" 
+        intervals [766]:
+            xmin = 845.5746874999996 
+            xmax = 846.6588541666663 
+            text = "mi_nga_ke" 
+        intervals [767]:
+            xmin = 846.6588541666663 
+            xmax = 847.782708333333 
+            text = "to_yu_wae" 
+        intervals [768]:
+            xmin = 847.782708333333 
+            xmax = 848.8637499999996 
+            text = "mi_yu_ke" 
+        intervals [769]:
+            xmin = 848.8637499999996 
+            xmax = 849.971708333333 
+            text = "nu_pae_da" 
+        intervals [770]:
+            xmin = 849.971708333333 
+            xmax = 851.0376041666664 
+            text = "mi_pae_ke" 
+        intervals [771]:
+            xmin = 851.0376041666664 
+            xmax = 852.164583333333 
+            text = "to_nga_wae" 
+        intervals [772]:
+            xmin = 852.164583333333 
+            xmax = 853.2732916666663 
+            text = "to_pae_wae" 
+        intervals [773]:
+            xmin = 853.2732916666663 
+            xmax = 854.3963958333329 
+            text = "nu_yu_da" 
+        intervals [774]:
+            xmin = 854.3963958333329 
+            xmax = 855.5226249999996 
+            text = "nu_nga_da" 
+        intervals [775]:
+            xmin = 855.5226249999996 
+            xmax = 856.6313333333329 
+            text = "to_pae_wae" 
+        intervals [776]:
+            xmin = 856.6313333333329 
+            xmax = 857.7154999999996 
+            text = "mi_nga_ke" 
+        intervals [777]:
+            xmin = 857.7154999999996 
+            xmax = 858.823458333333 
+            text = "nu_pae_da" 
+        intervals [778]:
+            xmin = 858.823458333333 
+            xmax = 859.8893541666663 
+            text = "mi_pae_ke" 
+        intervals [779]:
+            xmin = 859.8893541666663 
+            xmax = 860.970395833333 
+            text = "mi_yu_ke" 
+        intervals [780]:
+            xmin = 860.970395833333 
+            xmax = 862.0966249999997 
+            text = "nu_nga_da" 
+        intervals [781]:
+            xmin = 862.0966249999997 
+            xmax = 863.2204791666663 
+            text = "to_yu_wae" 
+        intervals [782]:
+            xmin = 863.2204791666663 
+            xmax = 864.343583333333 
+            text = "nu_yu_da" 
+        intervals [783]:
+            xmin = 864.343583333333 
+            xmax = 865.4705624999996 
+            text = "to_nga_wae" 
+        intervals [784]:
+            xmin = 865.4705624999996 
+            xmax = 866.5364583333329 
+            text = "mi_pae_ke" 
+        intervals [785]:
+            xmin = 866.5364583333329 
+            xmax = 867.6174999999996 
+            text = "mi_yu_ke" 
+        intervals [786]:
+            xmin = 867.6174999999996 
+            xmax = 868.725458333333 
+            text = "nu_pae_da" 
+        intervals [787]:
+            xmin = 868.725458333333 
+            xmax = 869.8485624999996 
+            text = "nu_yu_da" 
+        intervals [788]:
+            xmin = 869.8485624999996 
+            xmax = 870.9327291666663 
+            text = "mi_nga_ke" 
+        intervals [789]:
+            xmin = 870.9327291666663 
+            xmax = 872.0414374999996 
+            text = "to_pae_wae" 
+        intervals [790]:
+            xmin = 872.0414374999996 
+            xmax = 873.1676666666663 
+            text = "nu_nga_da" 
+        intervals [791]:
+            xmin = 873.1676666666663 
+            xmax = 874.2946458333329 
+            text = "to_nga_wae" 
+        intervals [792]:
+            xmin = 874.2946458333329 
+            xmax = 875.4184999999995 
+            text = "to_yu_wae" 
+        intervals [793]:
+            xmin = 875.4184999999995 
+            xmax = 876.5447291666662 
+            text = "nu_nga_da" 
+        intervals [794]:
+            xmin = 876.5447291666662 
+            xmax = 877.6678333333329 
+            text = "nu_yu_da" 
+        intervals [795]:
+            xmin = 877.6678333333329 
+            xmax = 878.7519999999995 
+            text = "mi_nga_ke" 
+        intervals [796]:
+            xmin = 878.7519999999995 
+            xmax = 879.8178958333328 
+            text = "mi_pae_ke" 
+        intervals [797]:
+            xmin = 879.8178958333328 
+            xmax = 880.8989374999995 
+            text = "mi_yu_ke" 
+        intervals [798]:
+            xmin = 880.8989374999995 
+            xmax = 882.0076458333328 
+            text = "to_pae_wae" 
+        intervals [799]:
+            xmin = 882.0076458333328 
+            xmax = 883.1156041666662 
+            text = "nu_pae_da" 
+        intervals [800]:
+            xmin = 883.1156041666662 
+            xmax = 884.2425833333328 
+            text = "to_nga_wae" 
+        intervals [801]:
+            xmin = 884.2425833333328 
+            xmax = 885.3664374999995 
+            text = "to_yu_wae" 
+        intervals [802]:
+            xmin = 885.3664374999995 
+            xmax = 886.4895416666661 
+            text = "nu_yu_da" 
+        intervals [803]:
+            xmin = 886.4895416666661 
+            xmax = 887.5705833333328 
+            text = "mi_yu_ke" 
+        intervals [804]:
+            xmin = 887.5705833333328 
+            xmax = 888.6364791666662 
+            text = "mi_pae_ke" 
+        intervals [805]:
+            xmin = 888.6364791666662 
+            xmax = 889.7627083333329 
+            text = "nu_nga_da" 
+        intervals [806]:
+            xmin = 889.7627083333329 
+            xmax = 890.8714166666662 
+            text = "to_pae_wae" 
+        intervals [807]:
+            xmin = 890.8714166666662 
+            xmax = 891.9793749999995 
+            text = "nu_pae_da" 
+        intervals [808]:
+            xmin = 891.9793749999995 
+            xmax = 893.1063541666662 
+            text = "to_nga_wae" 
+        intervals [809]:
+            xmin = 893.1063541666662 
+            xmax = 894.1905208333328 
+            text = "mi_nga_ke" 
+        intervals [810]:
+            xmin = 894.1905208333328 
+            xmax = 895.3143749999995 
+            text = "to_yu_wae" 
+        intervals [811]:
+            xmin = 895.3143749999995 
+            xmax = 896.3802708333328 
+            text = "mi_pae_ke" 
+        intervals [812]:
+            xmin = 896.3802708333328 
+            xmax = 897.4882291666662 
+            text = "nu_pae_da" 
+        intervals [813]:
+            xmin = 897.4882291666662 
+            xmax = 898.6152083333328 
+            text = "to_nga_wae" 
+        intervals [814]:
+            xmin = 898.6152083333328 
+            xmax = 899.6993749999995 
+            text = "mi_nga_ke" 
+        intervals [815]:
+            xmin = 899.6993749999995 
+            xmax = 900.8224791666661 
+            text = "nu_yu_da" 
+        intervals [816]:
+            xmin = 900.8224791666661 
+            xmax = 901.9035208333328 
+            text = "mi_yu_ke" 
+        intervals [817]:
+            xmin = 901.9035208333328 
+            xmax = 903.0297499999995 
+            text = "nu_nga_da" 
+        intervals [818]:
+            xmin = 903.0297499999995 
+            xmax = 904.1384583333328 
+            text = "to_pae_wae" 
+        intervals [819]:
+            xmin = 904.1384583333328 
+            xmax = 905.2623124999994 
+            text = "to_yu_wae" 
+        intervals [820]:
+            xmin = 905.2623124999994 
+            xmax = 906.3433541666661 
+            text = "mi_yu_ke" 
+        intervals [821]:
+            xmin = 906.3433541666661 
+            xmax = 907.4092499999995 
+            text = "mi_pae_ke" 
+        intervals [822]:
+            xmin = 907.4092499999995 
+            xmax = 908.5362291666661 
+            text = "to_nga_wae" 
+        intervals [823]:
+            xmin = 908.5362291666661 
+            xmax = 909.6593333333327 
+            text = "nu_yu_da" 
+        intervals [824]:
+            xmin = 909.6593333333327 
+            xmax = 910.768041666666 
+            text = "to_pae_wae" 
+        intervals [825]:
+            xmin = 910.768041666666 
+            xmax = 911.8942708333327 
+            text = "nu_nga_da" 
+        intervals [826]:
+            xmin = 911.8942708333327 
+            xmax = 913.0181249999994 
+            text = "to_yu_wae" 
+        intervals [827]:
+            xmin = 913.0181249999994 
+            xmax = 914.1260833333328 
+            text = "nu_pae_da" 
+        intervals [828]:
+            xmin = 914.1260833333328 
+            xmax = 915.2102499999994 
+            text = "mi_nga_ke" 
+        intervals [829]:
+            xmin = 915.2102499999994 
+            xmax = 916.3182083333328 
+            text = "nu_pae_da" 
+        intervals [830]:
+            xmin = 916.3182083333328 
+            xmax = 917.3841041666661 
+            text = "mi_pae_ke" 
+        intervals [831]:
+            xmin = 917.3841041666661 
+            xmax = 918.4651458333328 
+            text = "mi_yu_ke" 
+        intervals [832]:
+            xmin = 918.4651458333328 
+            xmax = 919.5882499999994 
+            text = "nu_yu_da" 
+        intervals [833]:
+            xmin = 919.5882499999994 
+            xmax = 920.7152291666661 
+            text = "to_nga_wae" 
+        intervals [834]:
+            xmin = 920.7152291666661 
+            xmax = 921.7993958333327 
+            text = "mi_nga_ke" 
+        intervals [835]:
+            xmin = 921.7993958333327 
+            xmax = 922.9256249999994 
+            text = "nu_nga_da" 
+        intervals [836]:
+            xmin = 922.9256249999994 
+            xmax = 924.0343333333327 
+            text = "to_pae_wae" 
+        intervals [837]:
+            xmin = 924.0343333333327 
+            xmax = 925.1581874999994 
+            text = "to_yu_wae" 
+        intervals [838]:
+            xmin = 925.1581874999994 
+            xmax = 926.2844166666661 
+            text = "nu_nga_da" 
+        intervals [839]:
+            xmin = 926.2844166666661 
+            xmax = 927.4075208333327 
+            text = "nu_yu_da" 
+        intervals [840]:
+            xmin = 927.4075208333327 
+            xmax = 928.5154791666661 
+            text = "nu_pae_da" 
+        intervals [841]:
+            xmin = 928.5154791666661 
+            xmax = 929.5996458333327 
+            text = "mi_nga_ke" 
+        intervals [842]:
+            xmin = 929.5996458333327 
+            xmax = 930.6655416666661 
+            text = "mi_pae_ke" 
+        intervals [843]:
+            xmin = 930.6655416666661 
+            xmax = 931.7465833333328 
+            text = "mi_yu_ke" 
+        intervals [844]:
+            xmin = 931.7465833333328 
+            xmax = 932.8735624999994 
+            text = "to_nga_wae" 
+        intervals [845]:
+            xmin = 932.8735624999994 
+            xmax = 933.9822708333327 
+            text = "to_pae_wae" 
+        intervals [846]:
+            xmin = 933.9822708333327 
+            xmax = 935.1061249999993 
+            text = "to_yu_wae" 
+        intervals [847]:
+            xmin = 935.1061249999993 
+            xmax = 936.190291666666 
+            text = "mi_nga_ke" 
+        intervals [848]:
+            xmin = 936.190291666666 
+            xmax = 937.2561874999993 
+            text = "mi_pae_ke" 
+        intervals [849]:
+            xmin = 937.2561874999993 
+            xmax = 938.379291666666 
+            text = "nu_yu_da" 
+        intervals [850]:
+            xmin = 938.379291666666 
+            xmax = 939.5062708333326 
+            text = "to_nga_wae" 
+        intervals [851]:
+            xmin = 939.5062708333326 
+            xmax = 940.614229166666 
+            text = "nu_pae_da" 
+        intervals [852]:
+            xmin = 940.614229166666 
+            xmax = 941.6952708333326 
+            text = "mi_yu_ke" 
+        intervals [853]:
+            xmin = 941.6952708333326 
+            xmax = 942.8214999999993 
+            text = "nu_nga_da" 
+        intervals [854]:
+            xmin = 942.8214999999993 
+            xmax = 943.945354166666 
+            text = "to_yu_wae" 
+        intervals [855]:
+            xmin = 943.945354166666 
+            xmax = 945.0540624999993 
+            text = "to_pae_wae" 
+        intervals [856]:
+            xmin = 945.0540624999993 
+            xmax = 946.180291666666 
+            text = "nu_nga_da" 
+        intervals [857]:
+            xmin = 946.180291666666 
+            xmax = 947.2882499999994 
+            text = "nu_pae_da" 
+        intervals [858]:
+            xmin = 947.2882499999994 
+            xmax = 948.411354166666 
+            text = "nu_yu_da" 
+        intervals [859]:
+            xmin = 948.411354166666 
+            xmax = 949.4923958333327 
+            text = "mi_yu_ke" 
+        intervals [860]:
+            xmin = 949.4923958333327 
+            xmax = 950.5765624999993 
+            text = "mi_nga_ke" 
+        intervals [861]:
+            xmin = 950.5765624999993 
+            xmax = 951.6852708333327 
+            text = "to_pae_wae" 
+        intervals [862]:
+            xmin = 951.6852708333327 
+            xmax = 952.8122499999993 
+            text = "to_nga_wae" 
+        intervals [863]:
+            xmin = 952.8122499999993 
+            xmax = 953.8781458333326 
+            text = "mi_pae_ke" 
+        intervals [864]:
+            xmin = 953.8781458333326 
+            xmax = 955.0019999999993 
+            text = "to_yu_wae" 
+        intervals [865]:
+            xmin = 955.0019999999993 
+            xmax = 956.083041666666 
+            text = "mi_yu_ke" 
+        intervals [866]:
+            xmin = 956.083041666666 
+            xmax = 957.2061458333326 
+            text = "nu_yu_da" 
+        intervals [867]:
+            xmin = 957.2061458333326 
+            xmax = 958.2903124999992 
+            text = "mi_nga_ke" 
+        intervals [868]:
+            xmin = 958.2903124999992 
+            xmax = 959.4172916666658 
+            text = "to_nga_wae" 
+        intervals [869]:
+            xmin = 959.4172916666658 
+            xmax = 960.5435208333325 
+            text = "nu_nga_da" 
+        intervals [870]:
+            xmin = 960.5435208333325 
+            xmax = 961.6514791666659 
+            text = "nu_pae_da" 
+        intervals [871]:
+            xmin = 961.6514791666659 
+            xmax = 962.7601874999992 
+            text = "to_pae_wae" 
+        intervals [872]:
+            xmin = 962.7601874999992 
+            xmax = 963.8260833333326 
+            text = "mi_pae_ke" 
+        intervals [873]:
+            xmin = 963.8260833333326 
+            xmax = 964.9499374999992 
+            text = "to_yu_wae" 
+        intervals [874]:
+            xmin = 964.9499374999992 
+            xmax = 966.0769166666659 
+            text = "to_nga_wae" 
+        intervals [875]:
+            xmin = 966.0769166666659 
+            xmax = 967.2031458333325 
+            text = "nu_nga_da" 
+        intervals [876]:
+            xmin = 967.2031458333325 
+            xmax = 968.2841874999992 
+            text = "mi_yu_ke" 
+        intervals [877]:
+            xmin = 968.2841874999992 
+            xmax = 969.3500833333326 
+            text = "mi_pae_ke" 
+        intervals [878]:
+            xmin = 969.3500833333326 
+            xmax = 970.4731874999992 
+            text = "nu_yu_da" 
+        intervals [879]:
+            xmin = 970.4731874999992 
+            xmax = 971.5811458333326 
+            text = "nu_pae_da" 
+        intervals [880]:
+            xmin = 971.5811458333326 
+            xmax = 972.6653124999992 
+            text = "mi_nga_ke" 
+        intervals [881]:
+            xmin = 972.6653124999992 
+            xmax = 973.7740208333325 
+            text = "to_pae_wae" 
+        intervals [882]:
+            xmin = 973.7740208333325 
+            xmax = 974.8978749999992 
+            text = "to_yu_wae" 
+        intervals [883]:
+            xmin = 974.8978749999992 
+            xmax = 976.0241041666659 
+            text = "nu_nga_da" 
+        intervals [884]:
+            xmin = 976.0241041666659 
+            xmax = 977.0899999999992 
+            text = "mi_pae_ke" 
+        intervals [885]:
+            xmin = 977.0899999999992 
+            xmax = 978.2138541666659 
+            text = "to_yu_wae" 
+        intervals [886]:
+            xmin = 978.2138541666659 
+            xmax = 979.3218124999993 
+            text = "nu_pae_da" 
+        intervals [887]:
+            xmin = 979.3218124999993 
+            xmax = 980.4305208333326 
+            text = "to_pae_wae" 
+        intervals [888]:
+            xmin = 980.4305208333326 
+            xmax = 981.5146874999992 
+            text = "mi_nga_ke" 
+        intervals [889]:
+            xmin = 981.5146874999992 
+            xmax = 982.6377916666659 
+            text = "nu_yu_da" 
+        intervals [890]:
+            xmin = 982.6377916666659 
+            xmax = 983.7647708333325 
+            text = "to_nga_wae" 
+        intervals [891]:
+            xmin = 983.7647708333325 
+            xmax = 984.8458124999992 
+            text = "mi_yu_ke" 
+        intervals [892]:
+            xmin = 984.8458124999992 
+            xmax = 985.9727916666658 
+            text = "to_nga_wae" 
+        intervals [893]:
+            xmin = 985.9727916666658 
+            xmax = 987.0807499999992 
+            text = "nu_pae_da" 
+        intervals [894]:
+            xmin = 987.0807499999992 
+            xmax = 988.1649166666658 
+            text = "mi_nga_ke" 
+        intervals [895]:
+            xmin = 988.1649166666658 
+            xmax = 989.2880208333324 
+            text = "nu_yu_da" 
+        intervals [896]:
+            xmin = 989.2880208333324 
+            xmax = 990.3539166666658 
+            text = "mi_pae_ke" 
+        intervals [897]:
+            xmin = 990.3539166666658 
+            xmax = 991.4349583333325 
+            text = "mi_yu_ke" 
+        intervals [898]:
+            xmin = 991.4349583333325 
+            xmax = 992.5436666666658 
+            text = "to_pae_wae" 
+        intervals [899]:
+            xmin = 992.5436666666658 
+            xmax = 993.6698958333325 
+            text = "nu_nga_da" 
+        intervals [900]:
+            xmin = 993.6698958333325 
+            xmax = 994.7937499999999 
+            text = "to_yu_wae" 
