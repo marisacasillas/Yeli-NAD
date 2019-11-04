@@ -1,0 +1,15 @@
+*.wav                                                                           
+*.mp3                                                                           
+*.mp4                                                                           
+*.ogg
+*.001                                                                           
+.DS_Store                                                                       
+.DS_Store?                                                                      
+._*                                                                             
+.Spotlight-V100                                                                 
+.Trashes                                                                        
+ehthumbs.db                                                                     
+Thumbs.db                                                                       
+metadata/personal/                                                                
+core_readings/
+paper/  
