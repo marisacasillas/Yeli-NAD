@@ -1,0 +1,3 @@
+BeginTime,EndTime,BeginTime2,EndTime2,Tier,StimulusID,StimulusCode,Tag
+00:00:01.924,00:00:03.127,1.924,3.127,3,'NADL/V1_CF.ogg','NADL/V1_CF.ogg','T'
+00:00:04.329,00:00:05.532,4.329,5.532,3,'NADL/V1_CF.ogg','NADL/V1_CF.ogg','F'

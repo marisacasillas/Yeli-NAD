@@ -1,0 +1,64 @@
+syldir$="C:\Users\marcas\Documents\GitHub\Yeli-NAD\stimuli\audio\02-homogenize\02-final\renamed"
+testdir$="C:\Users\marcas\Documents\GitHub\Yeli-NAD\stimuli\audio\03-make_all_words\00-word_lists\testing"
+traindir$="C:\Users\marcas\Documents\GitHub\Yeli-NAD\stimuli\audio\03-make_all_words\00-word_lists\training"
+testoutdir$="C:\Users\marcas\Documents\GitHub\Yeli-NAD\stimuli\audio\03-make_all_words\01-raw_words\testing"
+trainoutdir$="C:\Users\marcas\Documents\GitHub\Yeli-NAD\stimuli\audio\03-make_all_words\01-raw_words\training"
+
+#read in all isolated syllables
+Create Strings as file list... wavs 'syldir$'\*.wav
+nf=Get number of strings
+for i to nf
+    select Strings wavs
+    f$=Get string... 'i'
+    Read from file... 'syldir$'\'f$'
+endfor
+
+
+#make all train words
+Create Strings as file list... txts 'traindir$'\*.txt
+nf=Get number of strings
+for i to nf
+    select Strings txts
+    f$=Get string... 'i'
+    Read Strings from raw text file... 'traindir$'\'f$'
+    f$=f$-".txt"
+    nsyll=Get number of strings
+    for syll to nsyll
+        select Strings 'f$'
+        s$=Get string... 'syll'
+	select Sound 's$'
+	if syll=1
+	   Write to WAV file... 'trainoutdir$'\'f$'.wav
+	else
+	   Append to existing sound file... 'trainoutdir$'\'f$'.wav
+	endif
+    endfor
+#pause check
+endfor
+
+
+#make all test words
+Create Strings as file list... txts 'testdir$'\*.txt
+nf=Get number of strings
+for i to nf
+    select Strings txts
+    f$=Get string... 'i'
+    Read Strings from raw text file... 'testdir$'\'f$'
+    f$=f$-".txt"
+    nsyll=Get number of strings
+    for syll to nsyll
+        select Strings 'f$'
+        s$=Get string... 'syll'
+	select Sound 's$'
+	if syll=1
+	   Write to WAV file... 'testoutdir$'\'f$'.wav
+	else
+	   Append to existing sound file... 'testoutdir$'\'f$'.wav
+	endif
+    endfor
+#pause check
+endfor
+
+select all
+Remove
+print all done

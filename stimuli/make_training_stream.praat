@@ -10,6 +10,7 @@
 ###Modified by Michael Blasingame and Julie Matsubara 11 July 2011.
 
 ### Modified again by Marisa Casillas May 2019
+### Then again for Windows in August 2019... :(
 
 # Set up the basic input/output info
 form Save intervals to small WAV sound files
@@ -18,23 +19,53 @@ form Save intervals to small WAV sound files
 	boolean Allow_adjacent_repetitions 0
 	integer Secs_fade_in_and_out 5
 	comment About the input files:
-	sentence Input_folder /Users/mctice/Documents/Academic/Git-Projects/Yeli-NAD/stimuli/audio/03-make_all_words/02-training_words_only/
-	sentence Version_folder V1/
+	sentence tabfile C:/Users/marcas/Documents/GitHub/Yeli-NAD/stimuli/training_versions.tsv
+	sentence Input_folder C:/Users/marcas/Documents/GitHub/Yeli-NAD/stimuli/audio/03-make_all_words/01-raw_words/
+	sentence relinput_folder audio/03-make_all_words/01-raw_words/
+#	sentence Version_folder V1/
 	comment About the output files:
-	sentence Output_folder /Users/mctice/Documents/Academic/Git-Projects/Yeli-NAD/stimuli/audio/04-training_streams/
+	sentence Output_folder C:/Users/marcas/Documents/GitHub/Yeli-NAD/stimuli/audio/04-training_streams/
+	sentence reloutput_folder audio/04-training_streams/
 endform
 
 
-# Make a list of all the sound files in a directory
-Create Strings as file list... wavlist 'input_folder$''version_folder$'*.wav
-number_files = Get number of strings
+# Split up files into their version folders
+Read Table from tab-separated file... 'tabfile$'
+tabfile$=selected$("Table")
+nrows=Get number of rows
+for i to nrows
+    select Table 'tabfile$'
+    w$=Get value... 'i' file
+    v$=Get value... 'i' version
+    Read from file... 'Input_folder$''w$'
+    w$=replace$(w$,"training/","",0)
+#pause 'w$'
+    Write to WAV file... 'Input_folder$'/V'v$'/'w$'
+    Remove
+endfor
 
+# Make a list of all the sound files in a directory
+Create Strings as directory list... dirlist 'Input_folder$'V*
+number_dirs = Get number of strings
+
+for thisdir to number_dirs
+select Strings dirlist
+version_folder$=Get string... 'thisdir'
+
+select all
+minus Strings dirlist
+Remove
+
+# Make a list of all the sound files in a directory
+Create Strings as file list... wavlist 'Input_folder$''version_folder$'/*.wav
+number_files = Get number of strings
 # Add the name of each file to the list the specified number of times
 for i in 1 to number_of_each_token
 	select Strings wavlist
 	Copy...
 endfor
 select all
+minus Strings dirlist
 Append
 
 # Randomize the order of the files in the list using the given constraints
@@ -54,6 +85,7 @@ Rename... random_strings
 # Clear the list
 select all
 minus Strings random_strings
+minus Strings dirlist
 Remove
 
 # Read in the sound files in order
@@ -61,28 +93,34 @@ for ifile to number_files * number_of_each_token
 	select Strings random_strings
 	filename$ = Get string... ifile
 	# A sound file is opened from the listing:
-	Read from file... 'input_folder$''version_folder$''filename$'
+	Read from file... 'relinput_folder$''version_folder$'/'filename$'
 endfor
 
 # Concatenate the strings
 select all
 minus Strings random_strings
+minus Strings dirlist
 Concatenate recoverably
 select all
 minus Sound chain
 minus TextGrid chain
+minus Strings dirlist
 Remove
 
 # Add in the fades if desired
 select Sound chain
-Fade in... 0 0 secs_fade_in_and_out no
-Fade out... 0 3600 -secs_fade_in_and_out no
+dur=Get total duration
+Fade in... All 0 secs_fade_in_and_out no
+nowarn Fade out... All 'dur' -secs_fade_in_and_out no
 
 # Save the concatenated sound file and textgrid
 version$ = replace_regex$ (version_folder$, "/", "", 0)
 Rename... 'version$'
-Write to WAV file... 'output_folder$''version_folder$''version$'.wav
+Write to WAV file... 'reloutput_folder$''version_folder$'/'version$'.wav
 select TextGrid chain
 Rename... 'version$'
-Save as text file... 'output_folder$''version_folder$''version$'.TextGrid
+Write to text file... 'reloutput_folder$''version_folder$'/'version$'.TextGrid
+#pause check
+endfor
 
+print done make training stream

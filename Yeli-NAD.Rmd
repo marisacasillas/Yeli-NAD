@@ -1,0 +1,146 @@
+---
+title             : "NADL Rossel"
+shorttitle        : "Title"
+
+author: 
+  - name          : "Rebecca L. A. Frost"
+    affiliation   : "1"
+    corresponding : yes    # Define only one corresponding author
+    address       : "Postal address"
+    email         : "my@email.com"
+  - name          : "Marisa Casillas"
+    affiliation   : "1"
+
+affiliation:
+  - id            : "1"
+    institution   : "Max Planck Institute for Psycholinguistics"
+
+author_note: |
+  Add complete departmental affiliations for each author here. Each new line herein must be indented, like this line.
+
+  Enter author note here.
+
+abstract: |
+  Enter abstract here. Each new line herein must be indented, like this line.
+  
+keywords          : "keywords"
+wordcount         : "X"
+
+bibliography      : ["r-references.bib"]
+
+figsintext        : no
+figurelist        : no
+tablelist         : no
+footnotelist      : no
+lineno            : yes
+mask              : no
+
+class             : "man"
+output            : papaja::apa6_pdf
+---
+
+```{r load_packages, include = FALSE}
+library("papaja")
+library(tidyverse)
+raw.data <- "logfiles/trials/all.csv"
+stim.data <- "stimuli/word_files.csv"
+```
+
+```{r analysis_preferences}
+# Seed for random number generation
+set.seed(42)
+```
+
+
+```{r prepare_data}
+all.test.data <- read_csv(raw.data) %>%
+  mutate(EventDur = EndTime2 - BeginTime2,
+         TagSt = paste0("st", Tag)) %>%
+  spread(Tag, EventDur) %>%
+  spread(TagSt, BeginTime2) %>%
+  rename(foil.dur = "'F'", true.dur = "'T'",
+         pick1.dur = "'ONE'", pick2.dur = "'TWO'",
+         foil.start = "st'F'", true.start = "st'T'",
+         pick1.start = "st'ONE'", pick2.start = "st'TWO'") %>%
+  mutate(response = ifelse(!is.na(pick1.dur), 1, ifelse(is.na(pick2.dur), NA, 2)),
+         response.dur = ifelse(!is.na(pick1.dur), pick1.dur, pick2.dur),
+         response.start = ifelse(!is.na(pick1.dur), pick1.start, pick2.start)) %>%
+  group_by(Participant, StimulusID) %>%
+  summarize(foil.dur = min(foil.dur, na.rm = TRUE),
+            foil.start = min(foil.start, na.rm = TRUE),
+            true.dur = min(true.dur, na.rm = TRUE),
+            true.start = min(true.start, na.rm = TRUE),
+            response.num = min(response, na.rm = TRUE),
+            response.dur = min(response.dur, na.rm = TRUE),
+            response.start = min(response.start, na.rm = TRUE)) %>%
+  mutate(pair.order = ifelse(foil.start < true.start, "foil-true", "true-foil"),
+         response.type = case_when(
+           pair.order == "foil-true" & response.num == 1 ~ "foil",
+           pair.order == "foil-true" & response.num == 2 ~ "true",
+           pair.order == "true-foil" & response.num == 1 ~ "true",
+           pair.order == "true-foil" & response.num == 2 ~ "foil"
+         ),
+         correct.bin = ifelse(response.type == "true", 1, 0),
+         experiment = as.numeric(substr(StimulusID, 11, 11)),
+         version = as.numeric(substr(StimulusID, 8, 8)),
+         item.pair = substr(StimulusID, 10, 10)) %>%
+  rename(participant = "Participant") %>%
+  select(experiment, version, participant, item.pair, correct.bin, pair.order,
+         response.type, response.num, response.dur, response.start,
+         true.dur, true.start, foil.dur, foil.start) %>%
+  arrange(experiment, version, participant, item.pair)
+
+all.stim.data <- read_csv(stim.data)
+correct.stims <- filter(all.stim.data, selection == "correct") %>%
+  mutate(experiment = ifelse(exp1 == 1, 1, 2)) %>%
+  select(type, structure, pos1, pos2, pos3, Rffilename, experiment, pair, phase) %>%
+  rename(true.type = type, true.structure = structure,
+         true.pos1 = pos1, true.pos2 = pos2, true.pos3 = pos3, true.RFname = Rffilename)
+incorrect.stims <- filter(all.stim.data, selection == "incorrect")  %>%
+  mutate(experiment = ifelse(exp1 == 1, 1, 2)) %>%
+  select(type, structure, pos1, pos2, pos3, Rffilename, experiment, pair) %>%
+  rename(foil.type = type, foil.structure = structure,
+         foil.pos1 = pos1, foil.pos2 = pos2, foil.pos3 = pos3, foil.RFname = Rffilename)
+all.test.stims <- full_join(correct.stims, incorrect.stims)
+
+all.analyzable.data <- left_join(all.test.data, all.test.stims,
+                                 by = c("experiment" = "experiment", "item.pair" = "pair"))
+
+broad.descriptives <- all.analyzable.data %>%
+  group_by(experiment, participant, true.type) %>%
+  summarize(prp_corr = mean(correct.bin)) %>%
+  group_by(experiment, true.type) %>%
+  summarize(avg.prp_corr = mean(prp_corr))
+```
+
+# Methods
+We report how we determined our sample size, all data exclusions (if any), all manipulations, and all measures in the study. <!-- 21-word solution (Simmons, Nelson & Simonsohn, 2012; retrieved from http://ssrn.com/abstract=2160588) -->
+
+## Participants
+
+## Material
+
+## Procedure
+
+## Data analysis
+We used `r cite_r("r-references.bib")` for all our analyses.
+
+
+# Results
+
+# Discussion
+
+
+\newpage
+
+# References
+```{r create_r-references}
+r_refs(file = "r-references.bib")
+```
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+<div id = "refs"></div>
+\endgroup

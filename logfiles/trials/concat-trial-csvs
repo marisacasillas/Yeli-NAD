@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+# Examples:
+#   ./concat-trial-csvs > all.csv
+#   ./concat-trial-csvs path/to/dir > all.csv
+
+main() {
+  local basedir="${1:-.}"
+  local participant_re="P0?([0-9]+)"
+  echo "Participant,BeginTime,EndTime,BeginTime2,EndTime2,Tier,StimulusID,StimulusCode,Tag"
+  list_csvs "$basedir" | while read csv; do
+    local p=$([[ $csv =~ $participant_re ]]; echo "${BASH_REMATCH[1]}")
+    # Print everything but the header and prepend the participant number.
+    tail -n +2 "$csv" | sed "s/^/$p,/"
+  done
+}
+
+list_csvs() {
+  find "$1" -path '*/FieldKit NADL TestTrials/*.csv' | sort
+}
+
+main "$@"
