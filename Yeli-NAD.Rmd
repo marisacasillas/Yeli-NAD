@@ -44,6 +44,7 @@ library("papaja")
 library(tidyverse)
 raw.data <- "logfiles/trials/all.csv"
 stim.data <- "stimuli/word_files.csv"
+ptcp.data <- "metadata/participant_metadata_nonprivate.csv"
 ```
 
 ```{r analysis_preferences}
@@ -103,14 +104,43 @@ incorrect.stims <- filter(all.stim.data, selection == "incorrect")  %>%
          foil.pos1 = pos1, foil.pos2 = pos2, foil.pos3 = pos3, foil.RFname = Rffilename)
 all.test.stims <- full_join(correct.stims, incorrect.stims)
 
-all.analyzable.data <- left_join(all.test.data, all.test.stims,
-                                 by = c("experiment" = "experiment", "item.pair" = "pair"))
+all.ptcp.info <- read_csv(ptcp.data) 
+test.ptcps <- filter(all.ptcp.info, is.na(failure)) %>%
+  select(-failure)
+
+all.analyzable.data <- left_join(
+  all.test.data, all.test.stims,
+  by = c("experiment" = "experiment", "item.pair" = "pair")) %>%
+  left_join(test.ptcps,
+            by = c("experiment" = "experiment", "version" = "version",
+                   "participant" = "participant")) %>%
+  mutate(education = case_when(
+    grade < 8 ~ "primary",
+    grade >=8 & grade < 10 ~ "secondary",
+    grade >= 10 ~ "preparatory"),
+    test.type = ifelse(
+      phase == "generalization", "GEN", "SEG"),
+    competitor.type = ifelse(
+      experiment == 1, "part-word", "phantom-word"))
+
+# fix some levels nonsense
+all.analyzable.data$education <- as.factor(all.analyzable.data$education)
+all.analyzable.data$education <- factor(
+  all.analyzable.data$education, levels = c("primary", "secondary", "preparatory"))
 
 broad.descriptives <- all.analyzable.data %>%
-  group_by(experiment, participant, true.type) %>%
+  group_by(experiment, participant, phase) %>%
   summarize(prp_corr = mean(correct.bin)) %>%
-  group_by(experiment, true.type) %>%
+  group_by(experiment, phase) %>%
   summarize(avg.prp_corr = mean(prp_corr))
+
+by.ptcp.avgs <- all.analyzable.data %>%
+  group_by(competitor.type, participant, test.type, education) %>%
+  summarize(prp_corr = mean(correct.bin))
+
+ggplot(data = by.ptcp.avgs, aes(x = test.type, y = prp_corr, group = education)) +
+  facet_grid(~ competitor.type + education) + geom_jitter(aes(color = education)) + geom_path(aes(color = education)) + geom_hline(yintercept = 0.5)
+
 ```
 
 # Methods
