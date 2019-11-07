@@ -141,6 +141,13 @@ by.ptcp.avgs <- all.analyzable.data %>%
 ggplot(data = by.ptcp.avgs, aes(x = test.type, y = prp_corr, group = education)) +
   facet_grid(~ competitor.type + education) + geom_jitter(aes(color = education)) + geom_path(aes(color = education)) + geom_hline(yintercept = 0.5)
 
+pverall.avgs <- all.analyzable.data %>%
+  group_by(competitor.type, test.type, education) %>%
+  summarize(prp_corr = mean(correct.bin))
+
+ggplot(data = by.ptcp.avgs, aes(x = test.type, y = prp_corr, group = education)) +
+  facet_grid(~ competitor.type + education) + geom_jitter(aes(color = education)) + geom_path(aes(color = education)) + geom_hline(yintercept = 0.5) + geom_point(aes(y = prp_corr), data=pverall.avgs)
+
 ```
 
 # Methods
