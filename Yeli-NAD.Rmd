@@ -128,11 +128,15 @@ all.analyzable.data <- left_join(
     test.type = ifelse(
       phase == "generalization", "GEN", "SEG"),
     competitor.type = ifelse(
-      experiment == 1, "part-word", "phantom-word"))
+      experiment == 1, "part-word", "phantom-word")) %>%
+  select(-row)
 # reset factor-level ordering for education
 all.analyzable.data$education <- as.factor(all.analyzable.data$education)
 all.analyzable.data <- all.analyzable.data %>%
   mutate(education = fct_relevel(education, "primary", "secondary"))
+
+# write processed input files to memory
+write_csv(all.analyzable.data, "metadata/all.analyzable.data.csv")
 ```
 
 ``` {r descriptive_analysis}
