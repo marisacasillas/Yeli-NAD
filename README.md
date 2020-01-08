@@ -1,5 +1,7 @@
 # Yeli-NAD
-A study on non-adjacent dependency learning in Yélî Dnye with Rebecca L. A. Frost and Marisa Casillas. Anticipated data collection: August-October 2019.
+A study on non-adjacent dependency learning in Yélî Dnye with Rebecca L. A. Frost and Marisa Casillas. Data collected August-October 2019.
+
+**Note to self (2019-01-08): Manuscript and analyses under development in separate repo for the time being**
 
 
 ## Primary aim
